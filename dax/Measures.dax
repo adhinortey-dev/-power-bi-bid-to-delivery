@@ -1,0 +1,110 @@
+// Add these measures to the indicated table. Format currency as USD, percentages as 0.0%,
+// tons as #,##0.0, and durations as 0.0 days. Measures use the model described in the guide.
+
+// PROJECTS table measures
+Project Count = DISTINCTCOUNT ( Projects[ProjectID] )
+
+Quoted Value = SUM ( Projects[QuoteAmount] )
+
+Open Pipeline Value =
+CALCULATE (
+    [Quoted Value],
+    Projects[Stage] IN { "Bid Review", "Estimating", "Quote Submitted" }
+)
+
+Submitted Quote Count =
+CALCULATE (
+    [Project Count],
+    Projects[Stage] IN { "Quote Submitted", "Awarded", "Fabrication", "Ready for Delivery", "Delivered", "Lost", "No Response" }
+)
+
+Awarded Project Count =
+CALCULATE (
+    [Project Count],
+    Projects[Stage] IN { "Awarded", "Fabrication", "Ready for Delivery", "Delivered" }
+)
+
+Decided Quote Count =
+CALCULATE (
+    [Project Count],
+    Projects[Stage] IN { "Awarded", "Fabrication", "Ready for Delivery", "Delivered", "Lost" }
+)
+
+Win Rate = DIVIDE ( [Awarded Project Count], [Decided Quote Count] )
+
+Awarded Revenue =
+CALCULATE (
+    [Quoted Value],
+    Projects[Stage] IN { "Awarded", "Fabrication", "Ready for Delivery", "Delivered" }
+)
+
+Awarded Revenue by Award Date =
+CALCULATE (
+    [Awarded Revenue],
+    REMOVEFILTERS ( DimQuoteDate )
+)
+
+Awarded Actual Cost =
+CALCULATE (
+    SUM ( Projects[ActualCost] ),
+    Projects[Stage] IN { "Awarded", "Fabrication", "Ready for Delivery", "Delivered" }
+)
+
+Gross Margin $ = [Awarded Revenue] - [Awarded Actual Cost]
+
+Gross Margin % = DIVIDE ( [Gross Margin $], [Awarded Revenue] )
+
+Awarded Tons =
+CALCULATE (
+    SUM ( Projects[AwardedTons] ),
+    Projects[Stage] IN { "Awarded", "Fabrication", "Ready for Delivery", "Delivered" }
+)
+
+Average Days to Award =
+AVERAGEX (
+    FILTER ( Projects, NOT ISBLANK ( Projects[AwardDate] ) ),
+    DATEDIFF ( Projects[QuoteDate], Projects[AwardDate], DAY )
+)
+
+// SHIPMENTS table measures
+Shipment Count = DISTINCTCOUNT ( Shipments[ShipmentID] )
+
+Delivered Shipment Count =
+CALCULATE ( [Shipment Count], Shipments[ShipmentStatus] = "Delivered" )
+
+On-time Delivered Shipments =
+CALCULATE (
+    [Shipment Count],
+    FILTER (
+        Shipments,
+        Shipments[ShipmentStatus] = "Delivered"
+            && NOT ISBLANK ( Shipments[ActualShipDate] )
+            && Shipments[ActualShipDate] <= Shipments[PlannedShipDate]
+    )
+)
+
+On-time Shipment % = DIVIDE ( [On-time Delivered Shipments], [Delivered Shipment Count] )
+
+Delivered Tons =
+CALCULATE ( SUM ( Shipments[ShipmentTons] ), Shipments[ShipmentStatus] = "Delivered" )
+
+Late Delivered Tons =
+CALCULATE (
+    SUM ( Shipments[ShipmentTons] ),
+    FILTER (
+        Shipments,
+        Shipments[ShipmentStatus] = "Delivered"
+            && NOT ISBLANK ( Shipments[ActualShipDate] )
+            && Shipments[ActualShipDate] > Shipments[PlannedShipDate]
+    )
+)
+
+Average Delivery Variance Days =
+AVERAGEX (
+    FILTER (
+        Shipments,
+        Shipments[ShipmentStatus] = "Delivered"
+            && NOT ISBLANK ( Shipments[ActualShipDate] )
+    ),
+    DATEDIFF ( Shipments[PlannedShipDate], Shipments[ActualShipDate], DAY )
+)

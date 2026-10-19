@@ -1,0 +1,801 @@
+﻿ProjectID,QuoteDate,BidDeadline,AwardDate,DeliveryDate,Customer,Region,CustomerSegment,ProjectType,Estimator,Stage,QuotedTons,QuoteAmount,EstimatedCost,AwardedTons,ActualCost,Priority
+PRJ-0001,2024-02-24,2024-03-19,,,Oak & River Builders,Northeast,Developer,Multifamily,Avery Morgan,Quote Submitted,110.1,173627.70,136840.83,,,Standard
+PRJ-0002,2026-01-16,2026-02-26,,,Atlas Urban Development,Mid-Atlantic,Specialty Contractor,Multifamily,Taylor Brooks,Estimating,178.4,373748.00,272653.99,,,Standard
+PRJ-0003,2024-01-17,2024-02-21,,,Oak & River Builders,Southeast,Developer,Education,Jordan Lee,No Response,206.2,436113.00,369779.39,,,High
+PRJ-0004,2024-09-01,2024-10-11,,,Greenfield Build Co.,Southeast,General Contractor,Education,Casey Rivera,Lost,339.1,656497.60,555582.46,,,Standard
+PRJ-0005,2024-01-09,2024-02-16,,,Clearwater Public Works,Northeast,Public Agency,Transportation,Riley Chen,Estimating,164.7,344223.00,287658.28,,,Standard
+PRJ-0006,2026-07-21,2026-08-14,,,Oak & River Builders,Mid-Atlantic,Specialty Contractor,Transportation,Taylor Brooks,Estimating,342.7,751541.10,617608.06,,,Standard
+PRJ-0007,2026-05-08,2026-06-12,,,Beacon Municipal Group,Southeast,Developer,Civic,Riley Chen,Estimating,325.2,670237.20,571651.93,,,Standard
+PRJ-0008,2024-05-30,2024-06-24,2024-06-08,2024-09-11,Granite Peak Contractors,Southeast,Developer,Transportation,Riley Chen,Delivered,460.8,758016.00,629194.03,426.4,684238.96,High
+PRJ-0009,2024-10-02,2024-11-15,,,Cedarline Construction,Northeast,Developer,Education,Casey Rivera,Estimating,72.0,156384.00,122313.11,,,Standard
+PRJ-0010,2025-12-13,2026-01-13,,,Pioneer Structures,Northeast,Developer,Multifamily,Taylor Brooks,Lost,400.0,860400.00,602396.09,,,Standard
+PRJ-0011,2025-10-15,2025-11-11,,,Evergreen Contracting,Mid-Atlantic,Developer,Healthcare,Taylor Brooks,Lost,505.3,815554.20,650427.84,,,High
+PRJ-0012,2024-11-27,2025-01-02,,,Lakeshore Projects,Midwest,Specialty Contractor,Education,Casey Rivera,Lost,679.5,1476553.50,1214516.68,,,Standard
+PRJ-0013,2024-01-17,2024-03-01,,,Harborlight Construction,Midwest,Public Agency,Multifamily,Riley Chen,No Response,335.4,718426.80,541962.65,,,High
+PRJ-0014,2026-01-17,2026-02-09,,,Ironwood Development,Midwest,Public Agency,Multifamily,Taylor Brooks,No Response,527.4,1012080.60,765545.63,,,Standard
+PRJ-0015,2024-06-20,2024-07-24,,,Bluehaven Infrastructure,Mid-Atlantic,Public Agency,Education,Jordan Lee,No Response,292.0,502824.00,398280.96,,,High
+PRJ-0016,2025-11-01,2025-11-21,,,Pioneer Structures,Midwest,General Contractor,Multifamily,Riley Chen,Quote Submitted,418.4,771948.00,606217.07,,,High
+PRJ-0017,2025-12-29,2026-01-25,,,Meridian Siteworks,Mid-Atlantic,General Contractor,Commercial,Taylor Brooks,Estimating,316.3,520629.80,412301.29,,,Standard
+PRJ-0018,2026-06-04,2026-07-09,,,Northstar Builders,Mid-Atlantic,Public Agency,Education,Casey Rivera,Estimating,203.5,448310.50,374264.77,,,Standard
+PRJ-0019,2025-10-07,2025-10-29,,,Westmark Builders,Northeast,Public Agency,Civic,Avery Morgan,No Response,454.1,995387.20,851241.72,,,Standard
+PRJ-0020,2025-07-22,2025-08-16,,,Redwood Project Partners,Midwest,Specialty Contractor,Multifamily,Casey Rivera,Bid Review,401.4,828891.00,693986.32,,,High
+PRJ-0021,2024-09-05,2024-10-16,,,Keystone Works,Southeast,General Contractor,Commercial,Casey Rivera,No Response,88.1,194084.30,172812.35,,,Standard
+PRJ-0022,2025-10-01,2025-10-29,,,Bluehaven Infrastructure,Southeast,Developer,Healthcare,Casey Rivera,Quote Submitted,487.7,1112443.70,950324.48,,,High
+PRJ-0023,2026-09-16,2026-10-14,,,Harborlight Construction,Midwest,Public Agency,Commercial,Taylor Brooks,Lost,449.7,799116.90,668070.86,,,Standard
+PRJ-0024,2025-05-15,2025-06-05,,,Crownpoint Civil,Northeast,General Contractor,Healthcare,Casey Rivera,Lost,274.4,548251.20,474291.55,,,Standard
+PRJ-0025,2026-03-17,2026-04-28,,,Stonebridge General,Mid-Atlantic,General Contractor,Education,Avery Morgan,Estimating,546.0,1052688.00,763305.90,,,Standard
+PRJ-0026,2025-05-14,2025-06-06,,,Lakeshore Projects,Southeast,Public Agency,Multifamily,Taylor Brooks,Estimating,260.0,488280.00,364679.16,,,High
+PRJ-0027,2024-08-20,2024-09-30,,,Atlas Urban Development,Southeast,General Contractor,Transportation,Taylor Brooks,Lost,326.3,752447.80,644325.30,,,Standard
+PRJ-0028,2026-04-16,2026-05-23,,,Oak & River Builders,Mid-Atlantic,Specialty Contractor,Civic,Jordan Lee,Quote Submitted,436.2,987120.60,802810.13,,,Standard
+PRJ-0029,2024-06-01,2024-07-12,,,Westmark Builders,Midwest,Specialty Contractor,Healthcare,Taylor Brooks,Bid Review,135.3,286024.20,243230.57,,,Standard
+PRJ-0030,2024-01-16,2024-02-11,2024-02-07,,Summit Civic Group,Northeast,Specialty Contractor,Healthcare,Avery Morgan,Fabrication,120.2,201936.00,175484.01,132.6,185748.48,Standard
+PRJ-0031,2024-12-10,2025-01-17,2024-12-31,2025-04-06,Harborlight Construction,Southeast,Developer,Healthcare,Avery Morgan,Delivered,365.3,690051.70,550126.31,387.8,596503.80,Standard
+PRJ-0032,2024-03-14,2024-04-15,,,Greenfield Build Co.,Northeast,Specialty Contractor,Healthcare,Riley Chen,Lost,178.8,356706.00,309334.37,,,Standard
+PRJ-0033,2025-05-11,2025-06-13,,,Meridian Siteworks,Mid-Atlantic,Specialty Contractor,Commercial,Avery Morgan,No Response,375.0,600375.00,479416.39,,,Standard
+PRJ-0034,2026-09-15,2026-10-23,,,Ironwood Development,Northeast,Public Agency,Education,Casey Rivera,Estimating,436.5,961173.00,837575.38,,,Standard
+PRJ-0035,2024-08-15,2024-09-06,,,Ridgeway Engineering,Midwest,Public Agency,Transportation,Casey Rivera,Lost,315.3,731496.00,639317.54,,,Standard
+PRJ-0036,2026-03-15,2026-04-22,2026-04-19,,Cedarline Construction,Midwest,Specialty Contractor,Healthcare,Riley Chen,Fabrication,378.2,675465.20,555133.71,360.6,534674.25,Standard
+PRJ-0037,2024-11-28,2025-01-05,,,Greenfield Build Co.,Southeast,Public Agency,Civic,Riley Chen,Lost,329.0,639576.00,519607.49,,,Standard
+PRJ-0038,2025-06-04,2025-06-28,,,Westmark Builders,Northeast,Developer,Multifamily,Casey Rivera,Lost,361.9,619572.80,476434.78,,,Standard
+PRJ-0039,2025-08-25,2025-09-17,,,Redwood Project Partners,Midwest,Developer,Civic,Jordan Lee,Lost,390.0,795990.00,710066.75,,,Standard
+PRJ-0040,2024-11-26,2024-12-25,,,Stonebridge General,Midwest,Developer,Healthcare,Avery Morgan,No Response,297.0,495396.00,428257.74,,,Standard
+PRJ-0041,2025-08-19,2025-09-23,,,Silverline Contractors,Northeast,Public Agency,Multifamily,Taylor Brooks,Quote Submitted,592.0,1316016.00,1057798.84,,,Standard
+PRJ-0042,2025-06-20,2025-08-02,,,Silverline Contractors,Mid-Atlantic,Specialty Contractor,Multifamily,Avery Morgan,Quote Submitted,252.0,588168.00,453520.76,,,Standard
+PRJ-0043,2024-01-10,2024-02-03,,,Keystone Works,Southeast,Specialty Contractor,Healthcare,Jordan Lee,Quote Submitted,195.7,380832.20,293465.79,,,Standard
+PRJ-0044,2024-04-28,2024-06-07,,,Brightpath Construction,Southeast,General Contractor,Transportation,Jordan Lee,No Response,718.0,1560214.00,1398884.64,,,Standard
+PRJ-0045,2026-04-04,2026-04-27,,,Northstar Builders,Mid-Atlantic,Specialty Contractor,Transportation,Jordan Lee,Lost,134.4,244339.20,212608.00,,,Standard
+PRJ-0046,2024-01-14,2024-02-17,,,Stonebridge General,Midwest,Public Agency,Transportation,Riley Chen,No Response,325.3,630756.70,534216.20,,,Standard
+PRJ-0047,2024-08-02,2024-08-28,2024-08-10,2024-09-21,Stonebridge General,Mid-Atlantic,Specialty Contractor,Civic,Casey Rivera,Delivered,586.3,1111624.80,998910.23,598.7,1074750.27,Standard
+PRJ-0048,2026-04-12,2026-05-21,2026-05-15,,Bluehaven Infrastructure,Northeast,Developer,Transportation,Avery Morgan,Fabrication,584.5,935200.00,750112.64,545.8,724482.12,High
+PRJ-0049,2024-06-17,2024-07-19,,,Silverline Contractors,Midwest,General Contractor,Education,Riley Chen,Lost,324.0,737424.00,623927.04,,,Standard
+PRJ-0050,2025-01-21,2025-02-11,2025-01-27,2025-04-12,Beacon Municipal Group,Midwest,Public Agency,Multifamily,Riley Chen,Delivered,198.2,348435.60,261116.90,188.9,294798.64,Standard
+PRJ-0051,2025-10-27,2025-11-23,,,Meridian Siteworks,Mid-Atlantic,General Contractor,Education,Casey Rivera,Bid Review,316.3,504814.80,395781.14,,,Standard
+PRJ-0052,2025-10-10,2025-11-08,,,Ridgeway Engineering,Midwest,Specialty Contractor,Civic,Riley Chen,Quote Submitted,485.9,1125344.40,942238.45,,,Standard
+PRJ-0053,2024-10-29,2024-11-21,,,Northstar Builders,Mid-Atlantic,General Contractor,Civic,Taylor Brooks,Quote Submitted,100.0,207800.00,189672.44,,,High
+PRJ-0054,2026-02-07,2026-03-23,2026-02-20,,Evergreen Contracting,Southeast,General Contractor,Multifamily,Riley Chen,Fabrication,395.6,718805.20,539313.01,383.0,584576.03,Standard
+PRJ-0055,2024-10-31,2024-12-14,,,Redwood Project Partners,Northeast,Developer,Commercial,Jordan Lee,Lost,469.0,1033676.00,790395.33,,,High
+PRJ-0056,2024-12-05,2025-01-08,,,Bluehaven Infrastructure,Midwest,Public Agency,Multifamily,Casey Rivera,Quote Submitted,680.7,1492094.40,1150901.84,,,Standard
+PRJ-0057,2025-12-26,2026-01-25,,,Oak & River Builders,Mid-Atlantic,General Contractor,Education,Jordan Lee,Estimating,82.6,134638.00,112783.71,,,Standard
+PRJ-0058,2025-09-18,2025-10-24,,,Ridgeway Engineering,Midwest,Developer,Civic,Taylor Brooks,Lost,332.2,683667.60,581705.33,,,Standard
+PRJ-0059,2025-10-27,2025-11-23,,,Atlas Urban Development,Mid-Atlantic,Specialty Contractor,Multifamily,Avery Morgan,Lost,141.1,274016.20,227465.65,,,Standard
+PRJ-0060,2024-06-03,2024-07-08,2024-06-16,,Crownpoint Civil,Mid-Atlantic,Public Agency,Multifamily,Jordan Lee,Fabrication,369.5,641821.50,488862.69,405.9,471562.07,High
+PRJ-0061,2026-02-28,2026-04-06,,,Westmark Builders,Northeast,Specialty Contractor,Healthcare,Casey Rivera,Lost,433.7,863930.40,709849.95,,,Standard
+PRJ-0062,2024-01-13,2024-02-12,,,Westmark Builders,Southeast,General Contractor,Education,Casey Rivera,Lost,440.8,794321.60,571778.21,,,Standard
+PRJ-0063,2024-05-03,2024-06-17,,,Meridian Siteworks,Southeast,General Contractor,Commercial,Jordan Lee,No Response,156.3,351987.60,266195.75,,,Standard
+PRJ-0064,2024-05-09,2024-06-15,2024-05-30,2024-07-08,Silverline Contractors,Southeast,General Contractor,Transportation,Taylor Brooks,Ready for Delivery,666.3,1107390.60,1017423.22,727.7,1040986.99,High
+PRJ-0065,2025-04-23,2025-05-27,,,Ironwood Development,Southeast,Specialty Contractor,Healthcare,Casey Rivera,Quote Submitted,491.6,903069.20,722275.53,,,Urgent
+PRJ-0066,2024-05-07,2024-06-02,2024-05-16,,Evergreen Contracting,Northeast,Public Agency,Education,Avery Morgan,Fabrication,204.1,453918.40,389438.05,224.9,437182.00,Standard
+PRJ-0067,2024-02-15,2024-03-19,,,Brightpath Construction,Mid-Atlantic,Developer,Healthcare,Jordan Lee,No Response,265.2,616059.60,498935.00,,,High
+PRJ-0068,2025-07-14,2025-08-03,,,Stonebridge General,Northeast,Developer,Civic,Avery Morgan,No Response,238.2,501649.20,420978.47,,,Standard
+PRJ-0069,2026-09-19,2026-10-30,,,Meridian Siteworks,Midwest,Public Agency,Transportation,Jordan Lee,Bid Review,227.7,364320.00,306873.95,,,Standard
+PRJ-0070,2024-05-15,2024-06-26,,,Greenfield Build Co.,Midwest,Public Agency,Multifamily,Taylor Brooks,Lost,500.1,906181.20,697197.32,,,Standard
+PRJ-0071,2025-10-30,2025-11-26,,,Brightpath Construction,Mid-Atlantic,Specialty Contractor,Education,Taylor Brooks,Bid Review,125.8,220904.80,180534.13,,,Standard
+PRJ-0072,2025-04-13,2025-05-17,,,Summit Civic Group,Northeast,Specialty Contractor,Multifamily,Casey Rivera,Bid Review,687.1,1436726.10,1225951.93,,,Standard
+PRJ-0073,2025-02-12,2025-03-17,2025-02-26,,Northstar Builders,Midwest,General Contractor,Commercial,Jordan Lee,Awarded,290.7,465701.40,392822.47,283.5,396726.68,Standard
+PRJ-0074,2024-12-10,2025-01-15,,,Redwood Project Partners,Midwest,Specialty Contractor,Multifamily,Jordan Lee,Lost,127.2,226670.40,181318.46,,,Standard
+PRJ-0075,2026-07-07,2026-07-28,,,Ironwood Development,Midwest,General Contractor,Transportation,Jordan Lee,Lost,312.4,515772.40,410415.22,,,Standard
+PRJ-0076,2025-09-21,2025-10-27,2025-09-26,,Evergreen Contracting,Midwest,Specialty Contractor,Multifamily,Avery Morgan,Fabrication,388.7,612979.90,444134.65,358.3,491015.38,Standard
+PRJ-0077,2025-11-22,2025-12-13,,,Evergreen Contracting,Mid-Atlantic,Developer,Healthcare,Taylor Brooks,Bid Review,303.5,502596.00,437015.17,,,High
+PRJ-0078,2024-09-05,2024-10-11,,,Brightpath Construction,Northeast,Specialty Contractor,Civic,Avery Morgan,Lost,328.2,531684.00,453645.94,,,Standard
+PRJ-0079,2025-08-20,2025-09-30,,,Brightpath Construction,Midwest,Developer,Education,Taylor Brooks,No Response,290.2,501465.60,419590.59,,,Standard
+PRJ-0080,2024-03-13,2024-04-06,,,Crownpoint Civil,Northeast,General Contractor,Transportation,Jordan Lee,Lost,192.0,371904.00,328392.05,,,Standard
+PRJ-0081,2024-06-13,2024-07-07,,,Crownpoint Civil,Midwest,Public Agency,Transportation,Jordan Lee,Lost,128.9,205595.50,173694.57,,,Standard
+PRJ-0082,2025-05-30,2025-07-09,,,Bluehaven Infrastructure,Midwest,Public Agency,Multifamily,Riley Chen,Lost,651.1,1415491.40,1125550.86,,,Standard
+PRJ-0083,2025-05-14,2025-06-21,,,Pioneer Structures,Midwest,Specialty Contractor,Commercial,Casey Rivera,Estimating,93.2,210632.00,146388.14,,,High
+PRJ-0084,2025-11-09,2025-12-23,,,Atlas Urban Development,Midwest,Specialty Contractor,Civic,Riley Chen,Quote Submitted,62.0,137640.00,119126.35,,,Standard
+PRJ-0085,2024-06-03,2024-07-17,,,Brightpath Construction,Northeast,Specialty Contractor,Education,Avery Morgan,Bid Review,284.7,641998.50,525704.77,,,Standard
+PRJ-0086,2026-09-21,2026-10-12,,,Northstar Builders,Mid-Atlantic,Developer,Commercial,Avery Morgan,Quote Submitted,457.6,878592.00,753433.92,,,Standard
+PRJ-0087,2026-02-24,2026-03-20,,,Ridgeway Engineering,Mid-Atlantic,Public Agency,Transportation,Avery Morgan,No Response,454.8,804541.20,656977.43,,,Standard
+PRJ-0088,2026-08-30,2026-09-28,2026-09-25,2026-12-30,Granite Peak Contractors,Midwest,Developer,Healthcare,Jordan Lee,Ready for Delivery,433.0,960394.00,809935.65,433.1,823975.76,Standard
+PRJ-0089,2025-07-06,2025-07-31,2025-07-29,2025-10-12,Silverline Contractors,Northeast,Developer,Healthcare,Jordan Lee,Delivered,411.4,845838.40,760132.08,412.2,813511.96,Standard
+PRJ-0090,2026-05-26,2026-07-02,,,Bluehaven Infrastructure,Southeast,Specialty Contractor,Transportation,Riley Chen,Lost,407.0,767602.00,700916.28,,,Standard
+PRJ-0091,2026-04-12,2026-05-19,,,Beacon Municipal Group,Northeast,Specialty Contractor,Civic,Jordan Lee,Lost,642.6,1084066.20,935266.96,,,High
+PRJ-0092,2025-02-27,2025-03-21,2025-03-07,,Granite Peak Contractors,Northeast,Developer,Multifamily,Avery Morgan,Awarded,405.1,764018.60,551689.15,432.5,531081.05,Standard
+PRJ-0093,2026-08-04,2026-09-10,2026-09-03,2026-12-14,Evergreen Contracting,Southeast,Developer,Multifamily,Avery Morgan,Ready for Delivery,197.0,433794.00,331151.50,176.7,356525.83,High
+PRJ-0094,2025-09-27,2025-10-17,,,Brightpath Construction,Southeast,Public Agency,Healthcare,Riley Chen,Lost,543.9,1186245.90,960206.67,,,Standard
+PRJ-0095,2025-12-01,2025-12-30,,,Westmark Builders,Mid-Atlantic,Developer,Healthcare,Taylor Brooks,Lost,424.2,847551.60,796698.50,,,Standard
+PRJ-0096,2026-03-14,2026-04-24,,,Crownpoint Civil,Northeast,Specialty Contractor,Transportation,Taylor Brooks,Lost,296.7,504390.00,435302.83,,,Standard
+PRJ-0097,2026-03-02,2026-03-31,,,Beacon Municipal Group,Southeast,Developer,Education,Taylor Brooks,Bid Review,287.1,672101.10,494830.45,,,Standard
+PRJ-0098,2024-04-12,2024-05-18,,,Lakeshore Projects,Southeast,Developer,Education,Casey Rivera,Bid Review,106.0,192814.00,153853.99,,,Standard
+PRJ-0099,2024-11-18,2024-12-24,,,Bluehaven Infrastructure,Midwest,Developer,Education,Jordan Lee,Quote Submitted,261.8,445060.00,378196.41,,,Standard
+PRJ-0100,2026-09-02,2026-10-05,,,Beacon Municipal Group,Midwest,Public Agency,Education,Taylor Brooks,Lost,195.5,376728.50,285094.60,,,Standard
+PRJ-0101,2026-06-02,2026-06-26,,,Beacon Municipal Group,Southeast,Developer,Transportation,Jordan Lee,Estimating,540.5,1181533.00,929603.08,,,Standard
+PRJ-0102,2026-07-30,2026-09-13,,,Redwood Project Partners,Northeast,Specialty Contractor,Healthcare,Taylor Brooks,Lost,256.4,478186.00,440531.12,,,High
+PRJ-0103,2025-07-26,2025-09-04,,,Beacon Municipal Group,Mid-Atlantic,Public Agency,Healthcare,Riley Chen,Estimating,216.8,491052.00,397401.37,,,Standard
+PRJ-0104,2025-06-18,2025-07-23,,,Westmark Builders,Northeast,Public Agency,Civic,Jordan Lee,Quote Submitted,374.7,602517.60,562517.70,,,Standard
+PRJ-0105,2026-04-22,2026-06-03,2026-05-28,,Keystone Works,Northeast,Public Agency,Education,Riley Chen,Awarded,257.4,466408.80,393161.27,275.0,410609.82,Standard
+PRJ-0106,2026-06-20,2026-07-14,2026-06-30,2026-08-03,Ironwood Development,Southeast,General Contractor,Healthcare,Riley Chen,Delivered,533.3,1065000.10,847646.40,533.1,956644.17,Standard
+PRJ-0107,2025-09-01,2025-10-01,,,Ironwood Development,Midwest,Developer,Civic,Riley Chen,Bid Review,450.7,960892.40,816655.24,,,Standard
+PRJ-0108,2025-03-27,2025-04-27,,,Crownpoint Civil,Northeast,Developer,Education,Riley Chen,Lost,295.5,635916.00,531948.13,,,Standard
+PRJ-0109,2024-07-04,2024-07-24,,,Brightpath Construction,Southeast,General Contractor,Education,Taylor Brooks,Lost,573.4,1262053.40,1067252.48,,,High
+PRJ-0110,2024-06-10,2024-07-12,2024-07-06,2024-09-26,Ironwood Development,Southeast,Public Agency,Civic,Riley Chen,Ready for Delivery,361.9,599306.40,498642.24,372.6,486788.36,Standard
+PRJ-0111,2025-08-25,2025-09-18,,,Northstar Builders,Mid-Atlantic,Public Agency,Healthcare,Riley Chen,Lost,75.0,135375.00,110941.92,,,High
+PRJ-0112,2024-06-08,2024-07-11,,,Cedarline Construction,Southeast,Developer,Education,Riley Chen,Lost,116.2,261217.60,209487.44,,,Urgent
+PRJ-0113,2025-06-15,2025-07-29,,,Crownpoint Civil,Mid-Atlantic,Developer,Education,Taylor Brooks,Estimating,101.8,172652.80,134093.04,,,High
+PRJ-0114,2026-09-25,2026-10-15,,,Redwood Project Partners,Northeast,General Contractor,Civic,Riley Chen,Bid Review,466.3,1066894.40,898657.30,,,Standard
+PRJ-0115,2026-02-23,2026-03-25,,,Redwood Project Partners,Northeast,Specialty Contractor,Education,Avery Morgan,Lost,453.4,958487.60,900978.34,,,High
+PRJ-0116,2025-10-11,2025-11-08,,,Westmark Builders,Southeast,Developer,Education,Jordan Lee,No Response,186.2,397537.00,297856.91,,,Standard
+PRJ-0117,2024-04-15,2024-05-17,2024-04-28,2024-07-19,Meridian Siteworks,Southeast,General Contractor,Commercial,Avery Morgan,Delivered,370.3,585074.00,486571.17,370.8,476532.51,High
+PRJ-0118,2026-05-06,2026-05-28,,,Granite Peak Contractors,Northeast,Specialty Contractor,Education,Casey Rivera,Quote Submitted,285.5,566717.50,459981.73,,,Standard
+PRJ-0119,2025-04-03,2025-05-11,2025-04-22,,Ridgeway Engineering,Northeast,Developer,Civic,Riley Chen,Fabrication,102.9,217324.80,182765.02,105.4,198888.44,Standard
+PRJ-0120,2025-01-31,2025-02-26,,,Oak & River Builders,Northeast,Public Agency,Multifamily,Jordan Lee,Lost,292.3,552739.30,441039.25,,,Standard
+PRJ-0121,2026-09-27,2026-10-19,,,Bluehaven Infrastructure,Northeast,Developer,Commercial,Casey Rivera,Bid Review,245.0,489755.00,418052.29,,,Standard
+PRJ-0122,2026-08-22,2026-09-24,,,Summit Civic Group,Northeast,Specialty Contractor,Commercial,Riley Chen,Quote Submitted,212.9,431122.50,332028.49,,,Standard
+PRJ-0123,2024-10-15,2024-11-09,,,Greenfield Build Co.,Southeast,Public Agency,Healthcare,Jordan Lee,Bid Review,257.6,463422.40,384981.83,,,Standard
+PRJ-0124,2026-05-02,2026-06-16,,,Harborlight Construction,Southeast,Specialty Contractor,Healthcare,Jordan Lee,Quote Submitted,216.8,397611.20,349003.96,,,Standard
+PRJ-0125,2025-05-24,2025-06-28,,,Stonebridge General,Southeast,Specialty Contractor,Multifamily,Casey Rivera,Lost,168.7,272956.60,212723.00,,,Standard
+PRJ-0126,2025-10-10,2025-11-09,,,Keystone Works,Northeast,General Contractor,Education,Jordan Lee,Quote Submitted,538.0,1188442.00,969393.67,,,Standard
+PRJ-0127,2026-09-10,2026-10-19,,,Brightpath Construction,Mid-Atlantic,Developer,Civic,Jordan Lee,Bid Review,248.1,542346.60,462859.83,,,High
+PRJ-0128,2025-06-02,2025-07-16,,,Keystone Works,Midwest,General Contractor,Civic,Jordan Lee,Estimating,183.8,352160.80,273100.68,,,Standard
+PRJ-0129,2024-05-05,2024-05-30,,,Meridian Siteworks,Northeast,Public Agency,Education,Taylor Brooks,Lost,276.9,495374.10,424192.72,,,Standard
+PRJ-0130,2026-07-28,2026-09-10,,,Atlas Urban Development,Southeast,Specialty Contractor,Transportation,Riley Chen,Bid Review,612.1,1359474.10,1101122.58,,,Standard
+PRJ-0131,2024-07-14,2024-08-26,,,Ironwood Development,Northeast,Specialty Contractor,Commercial,Riley Chen,Quote Submitted,421.5,813495.00,667649.59,,,High
+PRJ-0132,2024-11-02,2024-12-07,2024-11-11,2025-02-17,Lakeshore Projects,Northeast,General Contractor,Commercial,Taylor Brooks,Delivered,564.4,1030030.00,810890.54,595.4,782816.20,Standard
+PRJ-0133,2025-10-12,2025-11-04,,,Oak & River Builders,Southeast,General Contractor,Education,Jordan Lee,No Response,244.0,408944.00,339551.64,,,Standard
+PRJ-0134,2026-08-14,2026-09-27,2026-08-28,,Silverline Contractors,Mid-Atlantic,Public Agency,Multifamily,Riley Chen,Fabrication,443.1,806885.10,642871.97,460.7,620991.01,Standard
+PRJ-0135,2025-04-09,2025-05-02,,,Ironwood Development,Midwest,Specialty Contractor,Commercial,Taylor Brooks,Lost,417.6,691545.60,494490.28,,,Standard
+PRJ-0136,2024-12-22,2025-01-19,2025-01-01,2025-04-11,Ironwood Development,Southeast,Developer,Civic,Casey Rivera,Ready for Delivery,177.6,331934.40,299009.98,170.5,334154.45,Standard
+PRJ-0137,2025-01-04,2025-02-07,,,Westmark Builders,Southeast,General Contractor,Education,Avery Morgan,Quote Submitted,236.3,541599.60,469202.97,,,Urgent
+PRJ-0138,2024-12-13,2025-01-14,,,Beacon Municipal Group,Mid-Atlantic,Public Agency,Education,Avery Morgan,Lost,75.2,124982.40,89754.54,,,Standard
+PRJ-0139,2025-07-01,2025-08-02,,,Stonebridge General,Northeast,Specialty Contractor,Commercial,Casey Rivera,Lost,447.5,907530.00,776503.16,,,Standard
+PRJ-0140,2025-10-25,2025-12-04,,,Oak & River Builders,Southeast,Developer,Healthcare,Casey Rivera,No Response,221.1,412793.70,319035.67,,,High
+PRJ-0141,2024-07-26,2024-08-26,,,Oak & River Builders,Mid-Atlantic,Public Agency,Commercial,Avery Morgan,Bid Review,507.3,863931.90,735127.50,,,Standard
+PRJ-0142,2026-07-28,2026-09-05,,,Oak & River Builders,Mid-Atlantic,Specialty Contractor,Education,Jordan Lee,No Response,120.1,227829.70,196176.00,,,Standard
+PRJ-0143,2024-08-12,2024-09-01,,,Granite Peak Contractors,Southeast,General Contractor,Commercial,Casey Rivera,Lost,136.3,225712.80,210794.52,,,Standard
+PRJ-0144,2026-01-11,2026-02-14,,,Ridgeway Engineering,Midwest,Public Agency,Civic,Avery Morgan,Estimating,284.3,469095.00,421753.78,,,Standard
+PRJ-0145,2025-12-29,2026-02-07,,,Ironwood Development,Mid-Atlantic,Specialty Contractor,Multifamily,Casey Rivera,Quote Submitted,208.4,381372.00,287310.57,,,High
+PRJ-0146,2026-06-09,2026-07-13,,,Summit Civic Group,Northeast,Public Agency,Transportation,Riley Chen,No Response,78.3,173043.00,144811.75,,,High
+PRJ-0147,2025-02-07,2025-03-05,2025-02-28,,Meridian Siteworks,Northeast,Developer,Multifamily,Riley Chen,Fabrication,165.5,386111.50,278569.26,169.0,313859.76,Standard
+PRJ-0148,2026-02-26,2026-04-08,,,Brightpath Construction,Mid-Atlantic,Specialty Contractor,Multifamily,Riley Chen,No Response,200.6,402403.60,296185.49,,,Standard
+PRJ-0149,2024-03-27,2024-05-03,,,Redwood Project Partners,Northeast,Specialty Contractor,Commercial,Jordan Lee,Bid Review,453.8,804587.40,684136.68,,,Standard
+PRJ-0150,2025-01-28,2025-03-05,2025-02-25,2025-05-18,Cedarline Construction,Midwest,Specialty Contractor,Commercial,Riley Chen,Delivered,243.5,472877.00,387210.57,219.4,426898.89,High
+PRJ-0151,2025-05-17,2025-06-17,,,Redwood Project Partners,Midwest,Specialty Contractor,Healthcare,Taylor Brooks,Quote Submitted,184.7,297921.10,271492.92,,,Standard
+PRJ-0152,2025-04-19,2025-05-28,,,Summit Civic Group,Midwest,Developer,Transportation,Casey Rivera,No Response,590.0,1099170.00,919333.16,,,Standard
+PRJ-0153,2025-06-11,2025-07-05,,,Beacon Municipal Group,Midwest,Developer,Commercial,Taylor Brooks,Lost,200.6,383948.40,269034.86,,,Standard
+PRJ-0154,2026-03-04,2026-04-13,,,Beacon Municipal Group,Midwest,General Contractor,Education,Jordan Lee,Estimating,154.4,362068.00,297126.43,,,Standard
+PRJ-0155,2025-01-05,2025-02-01,2025-01-14,,Summit Civic Group,Southeast,Developer,Commercial,Riley Chen,Fabrication,287.3,484962.40,376026.34,306.5,368687.34,Standard
+PRJ-0156,2026-05-24,2026-06-19,,,Atlas Urban Development,Midwest,Specialty Contractor,Transportation,Taylor Brooks,Lost,320.5,554144.50,450535.73,,,Urgent
+PRJ-0157,2026-03-08,2026-04-04,,,Redwood Project Partners,Northeast,Specialty Contractor,Multifamily,Riley Chen,Estimating,153.4,334565.40,254889.66,,,Standard
+PRJ-0158,2026-06-24,2026-07-24,2026-07-20,2026-08-18,Clearwater Public Works,Mid-Atlantic,Specialty Contractor,Education,Taylor Brooks,Delivered,355.1,632788.20,534284.38,390.7,524921.79,High
+PRJ-0159,2026-05-22,2026-07-01,,,Harborlight Construction,Southeast,Public Agency,Multifamily,Riley Chen,Quote Submitted,110.0,255090.00,192182.22,,,Standard
+PRJ-0160,2025-07-03,2025-08-08,,,Bluehaven Infrastructure,Southeast,General Contractor,Healthcare,Casey Rivera,Lost,171.3,329409.90,246332.56,,,High
+PRJ-0161,2025-04-12,2025-05-15,,,Northstar Builders,Mid-Atlantic,Specialty Contractor,Education,Casey Rivera,Lost,138.8,218748.80,172237.23,,,Standard
+PRJ-0162,2024-03-12,2024-04-10,,,Crownpoint Civil,Northeast,Specialty Contractor,Civic,Avery Morgan,Quote Submitted,131.8,272430.60,225932.09,,,Standard
+PRJ-0163,2025-10-18,2025-11-29,,,Meridian Siteworks,Northeast,Specialty Contractor,Civic,Riley Chen,No Response,300.1,510470.10,466219.94,,,Standard
+PRJ-0164,2026-08-02,2026-09-08,,,Oak & River Builders,Midwest,Specialty Contractor,Education,Jordan Lee,Quote Submitted,105.5,194964.00,138098.28,,,Standard
+PRJ-0165,2025-03-06,2025-03-27,2025-03-22,,Harborlight Construction,Midwest,General Contractor,Education,Jordan Lee,Awarded,528.8,894200.80,751390.94,511.4,809814.81,Standard
+PRJ-0166,2024-05-07,2024-05-27,2024-05-24,2024-09-04,Ironwood Development,Mid-Atlantic,Developer,Multifamily,Taylor Brooks,Ready for Delivery,469.2,1028017.20,855122.11,448.0,862273.53,High
+PRJ-0167,2024-11-25,2024-12-19,,,Silverline Contractors,Midwest,Developer,Multifamily,Avery Morgan,Lost,208.1,405795.00,324978.19,,,Standard
+PRJ-0168,2025-07-23,2025-08-17,,,Greenfield Build Co.,Northeast,Developer,Healthcare,Jordan Lee,Lost,501.3,1057743.00,822866.30,,,High
+PRJ-0169,2024-08-29,2024-09-22,,,Summit Civic Group,Midwest,General Contractor,Commercial,Taylor Brooks,Lost,331.6,548466.40,383029.80,,,Standard
+PRJ-0170,2026-03-28,2026-05-11,2026-04-11,2026-05-08,Ridgeway Engineering,Midwest,Specialty Contractor,Education,Jordan Lee,Delivered,247.8,440092.80,380396.67,228.1,415750.71,Standard
+PRJ-0171,2025-07-08,2025-08-14,2025-07-16,,Meridian Siteworks,Southeast,Specialty Contractor,Transportation,Avery Morgan,Fabrication,414.7,944271.90,806540.01,455.9,779050.31,Standard
+PRJ-0172,2025-04-22,2025-05-28,,,Ironwood Development,Mid-Atlantic,Public Agency,Education,Jordan Lee,Estimating,234.4,454267.20,373512.49,,,High
+PRJ-0173,2026-08-24,2026-09-26,,,Beacon Municipal Group,Mid-Atlantic,Specialty Contractor,Commercial,Taylor Brooks,Bid Review,732.8,1198128.00,897859.05,,,Standard
+PRJ-0174,2026-02-01,2026-03-14,,,Evergreen Contracting,Mid-Atlantic,Public Agency,Multifamily,Jordan Lee,No Response,263.7,415591.20,348800.00,,,Standard
+PRJ-0175,2026-02-21,2026-04-06,,,Evergreen Contracting,Mid-Atlantic,Specialty Contractor,Education,Taylor Brooks,Lost,170.3,380450.20,309819.69,,,Standard
+PRJ-0176,2025-07-19,2025-09-01,,,Redwood Project Partners,Mid-Atlantic,General Contractor,Healthcare,Jordan Lee,No Response,220.1,370428.30,312911.70,,,High
+PRJ-0177,2026-04-14,2026-05-16,,,Lakeshore Projects,Midwest,General Contractor,Civic,Casey Rivera,Lost,192.8,432257.60,406322.14,,,High
+PRJ-0178,2024-09-24,2024-10-15,,,Summit Civic Group,Southeast,General Contractor,Multifamily,Casey Rivera,No Response,462.3,1016135.40,809045.80,,,Standard
+PRJ-0179,2026-03-21,2026-04-30,,,Pioneer Structures,Southeast,Specialty Contractor,Transportation,Jordan Lee,Lost,747.6,1647710.40,1285286.39,,,High
+PRJ-0180,2025-04-06,2025-04-26,,,Silverline Contractors,Northeast,Public Agency,Multifamily,Avery Morgan,Lost,268.9,579748.40,492143.92,,,Standard
+PRJ-0181,2026-06-23,2026-08-07,,,Redwood Project Partners,Mid-Atlantic,General Contractor,Multifamily,Avery Morgan,Quote Submitted,494.4,1128220.80,981360.93,,,High
+PRJ-0182,2024-11-24,2024-12-22,,,Redwood Project Partners,Midwest,General Contractor,Transportation,Casey Rivera,Bid Review,200.4,460519.20,394971.67,,,Urgent
+PRJ-0183,2024-04-07,2024-05-21,,,Greenfield Build Co.,Mid-Atlantic,Developer,Transportation,Avery Morgan,Lost,585.3,1175282.40,1043960.65,,,Standard
+PRJ-0184,2024-05-19,2024-06-09,2024-06-02,2024-08-12,Beacon Municipal Group,Northeast,Public Agency,Civic,Casey Rivera,Delivered,149.7,276945.00,260328.30,144.5,291596.32,Standard
+PRJ-0185,2026-01-21,2026-02-26,,,Northstar Builders,Mid-Atlantic,Public Agency,Transportation,Avery Morgan,No Response,558.1,934817.50,760520.26,,,Standard
+PRJ-0186,2026-06-24,2026-07-31,,,Ironwood Development,Southeast,Developer,Civic,Taylor Brooks,Quote Submitted,427.6,734189.20,643957.62,,,Standard
+PRJ-0187,2025-04-14,2025-05-29,,,Beacon Municipal Group,Midwest,Developer,Transportation,Riley Chen,Lost,158.1,337701.60,301594.42,,,Standard
+PRJ-0188,2026-06-15,2026-07-21,,,Westmark Builders,Midwest,Public Agency,Commercial,Taylor Brooks,Lost,283.3,635158.60,527859.66,,,High
+PRJ-0189,2025-09-08,2025-10-18,,,Redwood Project Partners,Northeast,General Contractor,Multifamily,Jordan Lee,Quote Submitted,44.0,76472.00,61707.91,,,Standard
+PRJ-0190,2024-09-04,2024-10-12,2024-09-27,2024-10-25,Beacon Municipal Group,Midwest,Public Agency,Civic,Riley Chen,Delivered,230.4,405964.80,337922.62,225.3,334845.91,Standard
+PRJ-0191,2025-03-13,2025-04-27,,,Harborlight Construction,Mid-Atlantic,Public Agency,Multifamily,Taylor Brooks,Estimating,427.0,735721.00,582507.54,,,High
+PRJ-0192,2025-10-25,2025-11-26,,,Clearwater Public Works,Mid-Atlantic,Specialty Contractor,Education,Riley Chen,Estimating,299.4,681135.00,575588.06,,,High
+PRJ-0193,2025-06-25,2025-07-31,,,Brightpath Construction,Northeast,Public Agency,Transportation,Avery Morgan,Lost,489.8,834619.20,656406.03,,,High
+PRJ-0194,2024-11-20,2024-12-14,,,Lakeshore Projects,Northeast,Developer,Transportation,Riley Chen,Lost,312.1,536187.80,482932.82,,,Standard
+PRJ-0195,2024-08-31,2024-09-27,,,Redwood Project Partners,Mid-Atlantic,General Contractor,Commercial,Casey Rivera,Quote Submitted,120.7,208207.50,152855.17,,,Standard
+PRJ-0196,2026-09-11,2026-10-26,,,Crownpoint Civil,Southeast,Specialty Contractor,Education,Casey Rivera,Bid Review,378.3,803887.50,657040.17,,,Urgent
+PRJ-0197,2025-09-14,2025-10-16,,,Crownpoint Civil,Northeast,Developer,Multifamily,Avery Morgan,Quote Submitted,415.0,747830.00,573134.58,,,Standard
+PRJ-0198,2024-07-03,2024-07-23,,,Lakeshore Projects,Southeast,Developer,Multifamily,Riley Chen,No Response,346.5,690921.00,569268.22,,,Standard
+PRJ-0199,2026-08-02,2026-09-07,,,Summit Civic Group,Midwest,Developer,Commercial,Avery Morgan,Quote Submitted,161.3,350504.90,261151.90,,,Urgent
+PRJ-0200,2025-03-27,2025-05-11,2025-04-28,2025-08-09,Greenfield Build Co.,Southeast,Public Agency,Transportation,Taylor Brooks,Delivered,185.8,330166.60,284737.10,190.6,290877.20,Standard
+PRJ-0201,2025-04-02,2025-05-10,2025-04-12,,Granite Peak Contractors,Northeast,Developer,Transportation,Casey Rivera,Awarded,190.3,301815.80,273786.73,176.0,278929.74,Standard
+PRJ-0202,2026-02-23,2026-03-22,,,Bluehaven Infrastructure,Midwest,Specialty Contractor,Transportation,Avery Morgan,Lost,389.2,824325.60,665730.28,,,Standard
+PRJ-0203,2024-12-10,2025-01-14,2024-12-23,,Meridian Siteworks,Mid-Atlantic,Developer,Multifamily,Jordan Lee,Fabrication,80.2,137222.20,108118.46,87.8,117728.85,Standard
+PRJ-0204,2024-12-25,2025-02-05,,,Redwood Project Partners,Northeast,Developer,Multifamily,Riley Chen,Quote Submitted,138.1,283105.00,237155.33,,,Standard
+PRJ-0205,2026-02-17,2026-03-09,,,Ironwood Development,Midwest,Specialty Contractor,Commercial,Avery Morgan,Estimating,82.1,168469.20,136870.14,,,Standard
+PRJ-0206,2024-08-09,2024-09-20,,,Stonebridge General,Mid-Atlantic,Specialty Contractor,Transportation,Riley Chen,Lost,176.1,329130.90,297007.55,,,High
+PRJ-0207,2024-09-12,2024-10-02,,,Granite Peak Contractors,Midwest,Public Agency,Commercial,Taylor Brooks,No Response,301.0,620662.00,492552.43,,,Standard
+PRJ-0208,2025-12-25,2026-01-19,,,Cedarline Construction,Northeast,General Contractor,Multifamily,Avery Morgan,Estimating,207.6,351051.60,269031.76,,,Standard
+PRJ-0209,2026-02-28,2026-04-07,,,Harborlight Construction,Mid-Atlantic,General Contractor,Multifamily,Casey Rivera,No Response,119.3,203883.70,151245.66,,,High
+PRJ-0210,2026-03-20,2026-04-23,,,Greenfield Build Co.,Northeast,General Contractor,Healthcare,Casey Rivera,Quote Submitted,335.8,771668.40,646525.65,,,Standard
+PRJ-0211,2024-06-14,2024-07-12,,,Lakeshore Projects,Midwest,Public Agency,Education,Taylor Brooks,Lost,288.6,603462.60,535400.58,,,Standard
+PRJ-0212,2024-06-17,2024-07-15,2024-07-09,2024-09-03,Cedarline Construction,Midwest,Specialty Contractor,Transportation,Casey Rivera,Delivered,124.9,282648.70,234412.83,128.5,243787.73,High
+PRJ-0213,2024-03-18,2024-04-21,,,Redwood Project Partners,Northeast,General Contractor,Healthcare,Casey Rivera,Estimating,368.2,707312.20,626394.35,,,Standard
+PRJ-0214,2024-02-03,2024-03-05,,,Evergreen Contracting,Southeast,General Contractor,Commercial,Taylor Brooks,Lost,590.6,1316447.40,1091341.73,,,Standard
+PRJ-0215,2026-06-29,2026-07-20,,,Redwood Project Partners,Northeast,Public Agency,Commercial,Casey Rivera,Lost,102.7,239907.20,185533.47,,,Standard
+PRJ-0216,2024-11-03,2024-12-14,,,Lakeshore Projects,Midwest,Specialty Contractor,Civic,Riley Chen,No Response,291.5,464359.50,416042.67,,,Standard
+PRJ-0217,2026-08-30,2026-10-13,,,Brightpath Construction,Southeast,Specialty Contractor,Multifamily,Riley Chen,Quote Submitted,397.3,761226.80,649150.20,,,High
+PRJ-0218,2025-01-14,2025-02-14,2025-02-12,,Pioneer Structures,Mid-Atlantic,Specialty Contractor,Education,Casey Rivera,Fabrication,488.3,1024453.40,874245.32,436.5,934346.48,Standard
+PRJ-0219,2026-04-18,2026-06-01,2026-05-07,2026-08-18,Cedarline Construction,Southeast,Specialty Contractor,Multifamily,Avery Morgan,Ready for Delivery,387.7,668007.10,471188.83,347.4,498825.96,Standard
+PRJ-0220,2024-05-20,2024-06-26,,,Oak & River Builders,Midwest,Public Agency,Education,Riley Chen,Quote Submitted,226.0,451096.00,384359.46,,,Standard
+PRJ-0221,2024-05-15,2024-06-24,,,Evergreen Contracting,Southeast,Public Agency,Education,Avery Morgan,Lost,305.0,687470.00,583096.98,,,Standard
+PRJ-0222,2025-06-12,2025-07-25,,,Lakeshore Projects,Mid-Atlantic,Public Agency,Multifamily,Jordan Lee,Lost,181.5,418902.00,309484.17,,,Urgent
+PRJ-0223,2025-05-20,2025-06-23,,,Silverline Contractors,Midwest,Public Agency,Transportation,Casey Rivera,Lost,318.7,526811.10,450866.91,,,Standard
+PRJ-0224,2024-04-08,2024-05-18,,,Bluehaven Infrastructure,Mid-Atlantic,Public Agency,Education,Riley Chen,Estimating,636.4,1060878.80,811735.45,,,Standard
+PRJ-0225,2024-01-10,2024-02-16,,,Oak & River Builders,Mid-Atlantic,Public Agency,Multifamily,Riley Chen,No Response,502.3,912679.10,705080.68,,,Standard
+PRJ-0226,2025-05-02,2025-06-08,,,Keystone Works,Northeast,Public Agency,Healthcare,Riley Chen,Bid Review,186.8,347634.80,285639.65,,,Standard
+PRJ-0227,2024-04-10,2024-05-12,,,Stonebridge General,Midwest,Developer,Multifamily,Avery Morgan,Quote Submitted,399.2,873449.60,713784.17,,,Standard
+PRJ-0228,2024-10-22,2024-11-24,,,Clearwater Public Works,Northeast,Developer,Education,Avery Morgan,Lost,243.6,552484.80,450237.24,,,Standard
+PRJ-0229,2024-07-27,2024-08-19,,,Crownpoint Civil,Northeast,Specialty Contractor,Healthcare,Riley Chen,Estimating,421.0,939251.00,828715.07,,,High
+PRJ-0230,2026-06-08,2026-07-23,2026-06-14,,Brightpath Construction,Northeast,General Contractor,Commercial,Avery Morgan,Awarded,430.1,769018.80,558494.99,385.8,545677.06,Urgent
+PRJ-0231,2024-05-09,2024-06-13,,,Summit Civic Group,Midwest,Developer,Multifamily,Riley Chen,No Response,164.6,322616.00,240736.03,,,Standard
+PRJ-0232,2024-10-06,2024-10-30,,,Summit Civic Group,Mid-Atlantic,Specialty Contractor,Transportation,Taylor Brooks,Estimating,313.4,580103.40,432858.16,,,Standard
+PRJ-0233,2024-05-30,2024-07-01,,,Keystone Works,Midwest,Developer,Commercial,Casey Rivera,Estimating,328.6,635512.40,513650.38,,,Standard
+PRJ-0234,2025-09-22,2025-10-18,,,Ridgeway Engineering,Mid-Atlantic,Developer,Healthcare,Casey Rivera,Lost,294.1,535556.10,450454.67,,,Standard
+PRJ-0235,2025-08-22,2025-09-23,2025-08-29,2025-10-19,Cedarline Construction,Mid-Atlantic,Public Agency,Healthcare,Riley Chen,Delivered,256.3,537717.40,437139.91,241.0,445226.66,Standard
+PRJ-0236,2025-07-06,2025-08-11,,,Redwood Project Partners,Southeast,Developer,Civic,Riley Chen,No Response,289.0,466446.00,404505.56,,,High
+PRJ-0237,2024-01-29,2024-02-21,,,Cedarline Construction,Northeast,General Contractor,Transportation,Avery Morgan,Lost,427.4,760344.60,634523.26,,,Standard
+PRJ-0238,2026-04-24,2026-05-25,,,Redwood Project Partners,Southeast,Public Agency,Transportation,Taylor Brooks,Estimating,458.7,1057762.20,937198.16,,,Standard
+PRJ-0239,2026-02-06,2026-03-03,2026-02-23,2026-05-21,Granite Peak Contractors,Southeast,General Contractor,Healthcare,Taylor Brooks,Delivered,159.8,320079.40,269495.93,168.3,293619.81,Standard
+PRJ-0240,2024-10-08,2024-10-31,,,Bluehaven Infrastructure,Midwest,Developer,Commercial,Avery Morgan,No Response,386.0,881238.00,777153.66,,,Urgent
+PRJ-0241,2025-12-24,2026-01-21,,,Atlas Urban Development,Midwest,Specialty Contractor,Civic,Taylor Brooks,Lost,118.2,210041.40,177577.78,,,Standard
+PRJ-0242,2024-10-21,2024-11-23,,,Meridian Siteworks,Mid-Atlantic,General Contractor,Multifamily,Taylor Brooks,Quote Submitted,560.8,1089073.60,892784.81,,,Standard
+PRJ-0243,2025-06-06,2025-07-11,,,Harborlight Construction,Midwest,General Contractor,Civic,Avery Morgan,Quote Submitted,167.8,356575.00,315211.22,,,Urgent
+PRJ-0244,2024-07-17,2024-08-27,,,Cedarline Construction,Northeast,General Contractor,Commercial,Avery Morgan,Quote Submitted,233.9,435287.90,332702.99,,,Standard
+PRJ-0245,2026-03-03,2026-04-09,,,Bluehaven Infrastructure,Mid-Atlantic,Specialty Contractor,Civic,Riley Chen,No Response,224.8,524008.80,461724.98,,,Standard
+PRJ-0246,2026-08-16,2026-09-25,,,Evergreen Contracting,Mid-Atlantic,Public Agency,Healthcare,Riley Chen,Quote Submitted,624.3,1011990.30,796519.72,,,High
+PRJ-0247,2026-06-19,2026-07-25,2026-06-26,,Keystone Works,Midwest,Specialty Contractor,Transportation,Riley Chen,Fabrication,412.2,882932.40,695394.21,365.5,744126.19,Standard
+PRJ-0248,2024-11-23,2025-01-04,,,Beacon Municipal Group,Southeast,Developer,Commercial,Avery Morgan,Bid Review,678.9,1575726.90,1312631.36,,,Standard
+PRJ-0249,2025-04-29,2025-06-10,,,Clearwater Public Works,Mid-Atlantic,Public Agency,Multifamily,Jordan Lee,Lost,443.3,911424.80,778405.30,,,Standard
+PRJ-0250,2026-06-15,2026-07-14,,,Bluehaven Infrastructure,Southeast,General Contractor,Transportation,Jordan Lee,Lost,459.9,813563.10,659875.17,,,Standard
+PRJ-0251,2024-02-24,2024-03-24,,,Ridgeway Engineering,Midwest,Specialty Contractor,Transportation,Casey Rivera,Lost,188.4,338743.20,299502.56,,,Standard
+PRJ-0252,2025-12-01,2025-12-27,2025-12-09,2026-02-27,Crownpoint Civil,Southeast,Developer,Civic,Riley Chen,Delivered,83.0,192062.00,151478.44,78.2,157230.77,Standard
+PRJ-0253,2026-07-04,2026-08-14,,,Greenfield Build Co.,Northeast,Developer,Transportation,Avery Morgan,Lost,382.4,650844.80,544854.69,,,Standard
+PRJ-0254,2026-02-17,2026-04-02,,,Stonebridge General,Mid-Atlantic,Specialty Contractor,Commercial,Riley Chen,Quote Submitted,223.6,474926.40,416524.59,,,Standard
+PRJ-0255,2024-07-11,2024-07-31,,,Silverline Contractors,Northeast,Developer,Commercial,Avery Morgan,No Response,502.6,1041889.80,822146.32,,,High
+PRJ-0256,2025-12-26,2026-01-15,,,Crownpoint Civil,Mid-Atlantic,Specialty Contractor,Education,Riley Chen,Quote Submitted,494.0,920322.00,749448.40,,,Standard
+PRJ-0257,2025-10-21,2025-12-01,,,Bluehaven Infrastructure,Southeast,Specialty Contractor,Multifamily,Jordan Lee,Quote Submitted,101.2,159390.00,122580.93,,,High
+PRJ-0258,2025-11-19,2026-01-03,,,Northstar Builders,Southeast,Specialty Contractor,Transportation,Taylor Brooks,Lost,439.9,984936.10,857962.58,,,Standard
+PRJ-0259,2024-04-21,2024-05-14,,,Granite Peak Contractors,Southeast,Specialty Contractor,Education,Riley Chen,Bid Review,121.8,275511.60,227726.19,,,Standard
+PRJ-0260,2026-08-29,2026-10-02,,,Northstar Builders,Midwest,Developer,Education,Riley Chen,Lost,160.0,347520.00,288336.25,,,Standard
+PRJ-0261,2026-04-16,2026-05-13,2026-04-22,,Greenfield Build Co.,Midwest,Public Agency,Healthcare,Avery Morgan,Fabrication,396.7,776341.90,626831.47,439.1,668783.82,Standard
+PRJ-0262,2024-06-27,2024-08-01,,,Greenfield Build Co.,Midwest,General Contractor,Multifamily,Jordan Lee,Lost,154.6,284154.80,230415.73,,,Standard
+PRJ-0263,2024-04-11,2024-05-09,,,Cedarline Construction,Southeast,Specialty Contractor,Healthcare,Riley Chen,No Response,582.1,1132184.50,1016989.50,,,Standard
+PRJ-0264,2025-04-13,2025-05-25,2025-05-23,,Bluehaven Infrastructure,Southeast,Specialty Contractor,Transportation,Taylor Brooks,Awarded,332.9,556608.80,440286.83,298.7,465376.28,High
+PRJ-0265,2026-06-17,2026-07-10,,,Meridian Siteworks,Northeast,Specialty Contractor,Commercial,Avery Morgan,Bid Review,367.4,640010.80,488737.86,,,Standard
+PRJ-0266,2025-07-30,2025-09-06,,,Cedarline Construction,Mid-Atlantic,General Contractor,Transportation,Casey Rivera,Quote Submitted,217.6,465446.40,382430.15,,,Standard
+PRJ-0267,2024-09-21,2024-10-22,,,Ridgeway Engineering,Midwest,Public Agency,Civic,Avery Morgan,Lost,330.2,743610.40,616870.79,,,Standard
+PRJ-0268,2024-08-27,2024-10-03,,,Atlas Urban Development,Southeast,Public Agency,Commercial,Taylor Brooks,Lost,420.9,702482.10,600515.57,,,Standard
+PRJ-0269,2025-12-15,2026-01-05,,,Silverline Contractors,Midwest,Public Agency,Education,Jordan Lee,Bid Review,343.5,734746.50,668474.10,,,Standard
+PRJ-0270,2025-04-07,2025-05-10,,,Pioneer Structures,Northeast,General Contractor,Multifamily,Taylor Brooks,No Response,127.1,197767.60,143085.83,,,Standard
+PRJ-0271,2024-07-03,2024-07-25,,,Stonebridge General,Southeast,Developer,Healthcare,Casey Rivera,Estimating,373.8,777504.00,633502.84,,,Standard
+PRJ-0272,2025-02-04,2025-03-17,,,Crownpoint Civil,Midwest,Developer,Education,Jordan Lee,No Response,460.3,776986.40,627897.98,,,Standard
+PRJ-0273,2025-09-05,2025-10-04,2025-09-24,2025-11-20,Evergreen Contracting,Mid-Atlantic,General Contractor,Commercial,Jordan Lee,Ready for Delivery,479.7,1069251.30,940388.90,440.6,953557.23,Urgent
+PRJ-0274,2026-08-07,2026-09-20,,,Harborlight Construction,Southeast,Developer,Education,Taylor Brooks,Quote Submitted,470.7,828902.70,706873.90,,,Standard
+PRJ-0275,2024-08-24,2024-10-03,,,Redwood Project Partners,Mid-Atlantic,Specialty Contractor,Commercial,Avery Morgan,Quote Submitted,207.5,407115.00,343752.55,,,Standard
+PRJ-0276,2025-08-11,2025-09-21,2025-08-23,,Summit Civic Group,Southeast,Public Agency,Commercial,Avery Morgan,Fabrication,452.4,883084.80,693996.84,443.3,728919.48,Standard
+PRJ-0277,2024-10-20,2024-11-19,,,Crownpoint Civil,Midwest,General Contractor,Transportation,Jordan Lee,Bid Review,239.0,410124.00,327106.67,,,High
+PRJ-0278,2026-08-26,2026-10-03,2026-09-11,,Clearwater Public Works,Midwest,General Contractor,Commercial,Riley Chen,Fabrication,185.3,330204.60,238830.15,191.7,247086.50,Standard
+PRJ-0279,2025-03-15,2025-04-13,,,Crownpoint Civil,Northeast,Developer,Transportation,Avery Morgan,Quote Submitted,50.4,98532.00,87595.59,,,Standard
+PRJ-0280,2025-07-03,2025-07-29,,,Northstar Builders,Mid-Atlantic,Specialty Contractor,Multifamily,Avery Morgan,Estimating,389.3,846338.20,661217.75,,,High
+PRJ-0281,2026-05-04,2026-06-03,,,Keystone Works,Southeast,General Contractor,Transportation,Taylor Brooks,Lost,152.0,235600.00,197840.17,,,Standard
+PRJ-0282,2025-09-27,2025-10-28,,,Keystone Works,Northeast,Developer,Commercial,Avery Morgan,No Response,124.1,250309.70,183405.81,,,Standard
+PRJ-0283,2026-03-11,2026-04-21,,,Atlas Urban Development,Midwest,Specialty Contractor,Multifamily,Riley Chen,Lost,464.3,955993.70,792555.80,,,Standard
+PRJ-0284,2024-05-07,2024-06-02,2024-05-21,2024-07-12,Crownpoint Civil,Northeast,Public Agency,Multifamily,Avery Morgan,Delivered,650.5,1331573.50,1092920.81,670.0,1096641.24,Urgent
+PRJ-0285,2024-08-31,2024-10-10,,,Silverline Contractors,Midwest,General Contractor,Education,Avery Morgan,Estimating,493.4,937460.00,682624.29,,,Urgent
+PRJ-0286,2026-03-07,2026-04-11,,,Brightpath Construction,Northeast,Specialty Contractor,Civic,Avery Morgan,No Response,282.0,502242.00,472107.48,,,Standard
+PRJ-0287,2024-09-26,2024-10-19,,,Greenfield Build Co.,Mid-Atlantic,Public Agency,Civic,Taylor Brooks,Lost,147.2,345772.80,291304.48,,,Urgent
+PRJ-0288,2025-06-05,2025-07-12,2025-06-19,,Greenfield Build Co.,Mid-Atlantic,Developer,Healthcare,Casey Rivera,Awarded,534.7,871026.30,714545.55,559.9,765558.91,Standard
+PRJ-0289,2025-11-26,2026-01-04,,,Beacon Municipal Group,Northeast,Developer,Transportation,Jordan Lee,Quote Submitted,145.8,248443.20,211122.89,,,High
+PRJ-0290,2025-07-31,2025-09-13,,,Summit Civic Group,Mid-Atlantic,Developer,Multifamily,Riley Chen,Quote Submitted,461.9,859134.00,702234.24,,,Standard
+PRJ-0291,2026-06-14,2026-07-07,,,Ironwood Development,Northeast,Specialty Contractor,Healthcare,Avery Morgan,Estimating,282.5,585057.50,504947.43,,,High
+PRJ-0292,2025-01-16,2025-02-12,2025-01-27,2025-03-08,Beacon Municipal Group,Southeast,General Contractor,Transportation,Riley Chen,Ready for Delivery,561.2,913633.60,725539.57,618.7,808618.96,High
+PRJ-0293,2024-04-22,2024-05-19,,,Stonebridge General,Midwest,Developer,Healthcare,Avery Morgan,No Response,193.5,315405.00,254274.29,,,Standard
+PRJ-0294,2026-05-27,2026-06-29,,,Bluehaven Infrastructure,Mid-Atlantic,Developer,Transportation,Riley Chen,Quote Submitted,234.6,519404.40,397835.30,,,Standard
+PRJ-0295,2024-11-02,2024-12-04,,,Brightpath Construction,Midwest,Developer,Civic,Riley Chen,Quote Submitted,126.4,289835.20,267933.55,,,Standard
+PRJ-0296,2025-02-17,2025-03-29,,,Northstar Builders,Southeast,Public Agency,Commercial,Casey Rivera,Lost,604.8,1343260.80,1135047.21,,,Standard
+PRJ-0297,2025-03-02,2025-04-15,,,Beacon Municipal Group,Southeast,Developer,Healthcare,Jordan Lee,No Response,331.6,611470.40,538986.60,,,High
+PRJ-0298,2026-01-21,2026-02-13,,,Cedarline Construction,Mid-Atlantic,Specialty Contractor,Commercial,Taylor Brooks,No Response,207.5,441352.50,377531.72,,,High
+PRJ-0299,2025-12-23,2026-01-24,,,Ridgeway Engineering,Midwest,Developer,Multifamily,Jordan Lee,Lost,323.8,634000.40,469775.56,,,Standard
+PRJ-0300,2026-03-07,2026-04-19,,,Greenfield Build Co.,Midwest,General Contractor,Multifamily,Casey Rivera,Estimating,251.1,550160.10,457731.81,,,Standard
+PRJ-0301,2024-01-23,2024-02-23,,,Northstar Builders,Mid-Atlantic,Developer,Education,Jordan Lee,Estimating,113.1,220431.90,207205.99,,,High
+PRJ-0302,2026-08-27,2026-10-09,,,Westmark Builders,Southeast,General Contractor,Education,Taylor Brooks,Estimating,305.5,592059.00,498790.71,,,Standard
+PRJ-0303,2024-02-03,2024-03-02,,,Silverline Contractors,Mid-Atlantic,Developer,Healthcare,Avery Morgan,Lost,190.7,399325.80,332963.01,,,Standard
+PRJ-0304,2026-02-14,2026-03-18,,,Northstar Builders,Northeast,Specialty Contractor,Education,Taylor Brooks,Lost,594.3,1372238.70,1100404.39,,,Standard
+PRJ-0305,2025-07-30,2025-08-22,2025-08-10,,Bluehaven Infrastructure,Southeast,Specialty Contractor,Civic,Riley Chen,Awarded,339.6,690746.40,598649.67,301.6,589367.81,High
+PRJ-0306,2024-11-23,2024-12-18,,,Keystone Works,Southeast,Public Agency,Transportation,Jordan Lee,Lost,341.5,635190.00,549043.33,,,Standard
+PRJ-0307,2024-01-12,2024-02-14,,,Silverline Contractors,Midwest,Public Agency,Education,Riley Chen,Bid Review,579.1,1280969.20,1023214.79,,,Standard
+PRJ-0308,2024-12-29,2025-01-31,2025-01-21,2025-04-10,Stonebridge General,Northeast,Public Agency,Multifamily,Jordan Lee,Delivered,360.8,841746.40,594513.74,394.8,588941.40,Standard
+PRJ-0309,2025-12-17,2026-01-14,,,Summit Civic Group,Mid-Atlantic,Public Agency,Multifamily,Riley Chen,Lost,196.9,329610.60,256934.91,,,Standard
+PRJ-0310,2025-05-21,2025-06-23,,,Pioneer Structures,Northeast,Public Agency,Commercial,Taylor Brooks,Bid Review,230.4,518400.00,410894.96,,,High
+PRJ-0311,2025-09-02,2025-10-06,2025-09-20,,Atlas Urban Development,Midwest,General Contractor,Healthcare,Avery Morgan,Fabrication,462.1,1036952.40,921511.33,458.4,942330.40,High
+PRJ-0312,2024-08-22,2024-09-24,,,Ridgeway Engineering,Mid-Atlantic,Developer,Commercial,Casey Rivera,Quote Submitted,223.8,511830.60,408688.68,,,Standard
+PRJ-0313,2026-06-03,2026-07-02,,,Ironwood Development,Northeast,Specialty Contractor,Multifamily,Jordan Lee,Quote Submitted,555.4,1045818.20,826118.67,,,Standard
+PRJ-0314,2024-03-16,2024-04-19,,,Atlas Urban Development,Midwest,Public Agency,Civic,Jordan Lee,No Response,301.7,468238.40,387899.80,,,Standard
+PRJ-0315,2024-11-19,2024-12-24,,,Ironwood Development,Midwest,Specialty Contractor,Transportation,Taylor Brooks,Lost,84.2,165032.00,148989.84,,,High
+PRJ-0316,2026-06-19,2026-07-11,,,Ironwood Development,Northeast,Specialty Contractor,Commercial,Avery Morgan,Lost,167.3,366554.30,318834.87,,,Standard
+PRJ-0317,2024-12-21,2025-01-25,,,Silverline Contractors,Mid-Atlantic,General Contractor,Transportation,Avery Morgan,Estimating,167.6,314920.40,271160.82,,,High
+PRJ-0318,2026-09-13,2026-10-13,,,Oak & River Builders,Midwest,General Contractor,Transportation,Riley Chen,Estimating,451.9,898377.20,786403.78,,,Standard
+PRJ-0319,2025-06-04,2025-06-24,,,Evergreen Contracting,Mid-Atlantic,Public Agency,Commercial,Jordan Lee,No Response,560.6,1034867.60,906501.65,,,Standard
+PRJ-0320,2024-11-15,2024-12-14,,,Ironwood Development,Midwest,Developer,Healthcare,Avery Morgan,Lost,148.5,335164.50,283521.16,,,Standard
+PRJ-0321,2026-05-05,2026-06-19,2026-05-20,,Redwood Project Partners,Midwest,General Contractor,Healthcare,Avery Morgan,Fabrication,67.3,153309.40,130754.37,68.4,144400.81,High
+PRJ-0322,2024-01-13,2024-02-02,,,Meridian Siteworks,Midwest,Specialty Contractor,Civic,Jordan Lee,No Response,175.2,309753.60,266749.19,,,Standard
+PRJ-0323,2026-02-11,2026-03-03,,,Oak & River Builders,Midwest,Specialty Contractor,Healthcare,Avery Morgan,Quote Submitted,172.1,330948.30,289477.63,,,Standard
+PRJ-0324,2026-01-30,2026-03-02,,,Evergreen Contracting,Southeast,Public Agency,Education,Riley Chen,No Response,116.5,251756.50,213516.13,,,Standard
+PRJ-0325,2024-08-11,2024-09-08,,,Bluehaven Infrastructure,Mid-Atlantic,Specialty Contractor,Transportation,Riley Chen,Quote Submitted,178.8,412491.60,337020.14,,,High
+PRJ-0326,2026-09-18,2026-10-19,,,Crownpoint Civil,Mid-Atlantic,Developer,Civic,Casey Rivera,Quote Submitted,640.8,1114992.00,1023559.40,,,Standard
+PRJ-0327,2026-07-06,2026-08-19,,,Beacon Municipal Group,Southeast,Public Agency,Multifamily,Avery Morgan,Estimating,619.0,1372942.00,1105862.66,,,Urgent
+PRJ-0328,2026-08-02,2026-08-26,,,Silverline Contractors,Midwest,General Contractor,Healthcare,Avery Morgan,Quote Submitted,400.4,843642.80,642452.47,,,Urgent
+PRJ-0329,2025-06-26,2025-07-20,,,Stonebridge General,Northeast,Developer,Multifamily,Casey Rivera,Lost,524.0,1107736.00,809598.60,,,High
+PRJ-0330,2025-10-23,2025-11-22,2025-10-31,,Redwood Project Partners,Northeast,General Contractor,Civic,Casey Rivera,Fabrication,588.3,1111298.70,982793.13,538.2,1045756.30,Standard
+PRJ-0331,2024-05-12,2024-06-20,,,Silverline Contractors,Midwest,Public Agency,Civic,Taylor Brooks,No Response,140.0,228480.00,191436.53,,,High
+PRJ-0332,2025-12-13,2026-01-07,,,Bluehaven Infrastructure,Southeast,Specialty Contractor,Multifamily,Riley Chen,Estimating,319.8,644716.80,447014.51,,,Standard
+PRJ-0333,2024-03-05,2024-04-14,,,Brightpath Construction,Mid-Atlantic,Developer,Education,Casey Rivera,Quote Submitted,318.9,584862.60,496575.41,,,Standard
+PRJ-0334,2025-11-23,2025-12-23,2025-12-08,,Atlas Urban Development,Mid-Atlantic,General Contractor,Commercial,Taylor Brooks,Awarded,138.9,229879.50,163615.22,152.6,168352.76,Standard
+PRJ-0335,2024-08-17,2024-09-09,,,Northstar Builders,Northeast,Specialty Contractor,Multifamily,Taylor Brooks,Bid Review,157.4,299060.00,233259.79,,,Standard
+PRJ-0336,2025-01-09,2025-02-02,,,Evergreen Contracting,Midwest,Public Agency,Healthcare,Taylor Brooks,Quote Submitted,288.3,650693.10,537217.36,,,Urgent
+PRJ-0337,2025-11-03,2025-12-15,,,Westmark Builders,Mid-Atlantic,Specialty Contractor,Transportation,Taylor Brooks,No Response,390.2,764792.00,568892.44,,,Standard
+PRJ-0338,2024-05-06,2024-06-06,,,Harborlight Construction,Northeast,Public Agency,Education,Casey Rivera,Lost,194.0,343768.00,262863.69,,,Standard
+PRJ-0339,2024-01-28,2024-03-12,,,Ridgeway Engineering,Midwest,General Contractor,Commercial,Taylor Brooks,Lost,146.7,305429.40,263528.90,,,Urgent
+PRJ-0340,2024-11-25,2024-12-22,,,Pioneer Structures,Southeast,General Contractor,Healthcare,Riley Chen,No Response,256.3,477999.50,403397.53,,,Standard
+PRJ-0341,2024-03-01,2024-03-24,,,Summit Civic Group,Midwest,Public Agency,Civic,Riley Chen,Lost,100.9,203313.50,176044.63,,,Urgent
+PRJ-0342,2025-09-12,2025-10-12,,,Westmark Builders,Mid-Atlantic,General Contractor,Civic,Avery Morgan,Lost,253.4,565588.80,476775.49,,,Standard
+PRJ-0343,2026-07-25,2026-08-21,2026-08-16,2026-10-11,Silverline Contractors,Mid-Atlantic,Developer,Commercial,Jordan Lee,Delivered,465.9,807870.60,645071.11,491.4,677456.13,Standard
+PRJ-0344,2024-10-06,2024-11-17,,,Clearwater Public Works,Mid-Atlantic,Developer,Transportation,Casey Rivera,Estimating,153.9,356278.50,296311.26,,,Standard
+PRJ-0345,2025-05-23,2025-06-13,2025-06-05,2025-07-19,Harborlight Construction,Southeast,Specialty Contractor,Healthcare,Avery Morgan,Delivered,196.2,347077.80,297724.16,195.8,304218.62,Standard
+PRJ-0346,2025-10-20,2025-11-25,,,Brightpath Construction,Southeast,Public Agency,Healthcare,Casey Rivera,Estimating,331.6,691054.40,538920.74,,,Standard
+PRJ-0347,2024-10-13,2024-11-06,,,Harborlight Construction,Northeast,Specialty Contractor,Transportation,Taylor Brooks,Quote Submitted,176.0,357280.00,310218.84,,,Standard
+PRJ-0348,2024-04-18,2024-06-02,,,Harborlight Construction,Southeast,Specialty Contractor,Commercial,Taylor Brooks,Lost,478.9,1098117.70,861752.44,,,Standard
+PRJ-0349,2025-11-26,2026-01-01,,,Redwood Project Partners,Northeast,Public Agency,Civic,Jordan Lee,Quote Submitted,175.2,276465.60,249156.15,,,Standard
+PRJ-0350,2025-06-22,2025-08-04,2025-06-30,,Ironwood Development,Midwest,Public Agency,Multifamily,Jordan Lee,Fabrication,568.0,1022968.00,737079.59,513.3,709789.37,Standard
+PRJ-0351,2025-11-13,2025-12-04,,,Brightpath Construction,Mid-Atlantic,General Contractor,Civic,Casey Rivera,Quote Submitted,287.4,623083.20,499594.03,,,Standard
+PRJ-0352,2024-03-28,2024-05-01,,,Redwood Project Partners,Midwest,Public Agency,Education,Avery Morgan,Bid Review,173.0,333717.00,286516.52,,,Urgent
+PRJ-0353,2024-05-14,2024-06-06,,,Ridgeway Engineering,Northeast,Developer,Transportation,Taylor Brooks,Quote Submitted,480.9,846864.90,760876.53,,,Standard
+PRJ-0354,2025-12-21,2026-01-18,,,Keystone Works,Southeast,Developer,Transportation,Taylor Brooks,Estimating,104.3,171156.30,148718.47,,,Urgent
+PRJ-0355,2024-09-28,2024-10-21,,,Westmark Builders,Northeast,Public Agency,Transportation,Riley Chen,Lost,425.7,888010.20,808643.46,,,Standard
+PRJ-0356,2024-08-25,2024-09-19,,,Pioneer Structures,Midwest,Public Agency,Commercial,Casey Rivera,Lost,599.7,1085457.00,823573.10,,,Standard
+PRJ-0357,2025-08-08,2025-09-11,2025-08-23,,Beacon Municipal Group,Southeast,Developer,Transportation,Riley Chen,Fabrication,316.3,586736.50,495202.01,325.7,546555.94,Standard
+PRJ-0358,2026-05-06,2026-06-10,2026-05-13,,Oak & River Builders,Northeast,General Contractor,Education,Riley Chen,Fabrication,329.1,731260.20,627472.65,296.5,695648.30,Urgent
+PRJ-0359,2025-03-04,2025-03-25,,,Atlas Urban Development,Southeast,Public Agency,Education,Jordan Lee,Lost,481.5,1103116.50,844850.68,,,High
+PRJ-0360,2025-09-12,2025-10-25,,,Stonebridge General,Midwest,General Contractor,Healthcare,Taylor Brooks,Lost,156.2,252731.60,208786.95,,,Standard
+PRJ-0361,2026-07-08,2026-07-31,,,Keystone Works,Northeast,Public Agency,Civic,Jordan Lee,Lost,242.0,568458.00,512220.40,,,High
+PRJ-0362,2025-11-28,2026-01-04,,,Crownpoint Civil,Mid-Atlantic,Public Agency,Education,Casey Rivera,Quote Submitted,336.8,541574.40,457954.33,,,Standard
+PRJ-0363,2024-12-15,2025-01-09,,,Summit Civic Group,Mid-Atlantic,Public Agency,Transportation,Avery Morgan,Bid Review,43.3,91839.30,81677.73,,,High
+PRJ-0364,2025-11-04,2025-12-10,,,Clearwater Public Works,Mid-Atlantic,General Contractor,Multifamily,Jordan Lee,Lost,222.9,447137.40,344775.85,,,Standard
+PRJ-0365,2025-06-24,2025-07-22,,,Westmark Builders,Northeast,General Contractor,Multifamily,Riley Chen,No Response,316.9,732989.70,542012.78,,,High
+PRJ-0366,2026-06-02,2026-07-13,2026-06-17,2026-09-15,Atlas Urban Development,Southeast,Developer,Transportation,Taylor Brooks,Delivered,446.5,832722.50,698107.67,448.2,697417.02,Standard
+PRJ-0367,2026-07-17,2026-08-26,,,Atlas Urban Development,Northeast,Specialty Contractor,Education,Taylor Brooks,Estimating,102.9,187380.90,153376.45,,,Standard
+PRJ-0368,2026-05-24,2026-06-29,,,Brightpath Construction,Midwest,Specialty Contractor,Healthcare,Avery Morgan,Lost,213.8,376929.40,339132.97,,,Standard
+PRJ-0369,2025-12-29,2026-01-22,2026-01-03,,Redwood Project Partners,Midwest,Specialty Contractor,Education,Casey Rivera,Awarded,186.4,432448.00,354109.27,208.3,369733.81,High
+PRJ-0370,2025-11-05,2025-12-07,,,Oak & River Builders,Southeast,Specialty Contractor,Civic,Riley Chen,Estimating,288.3,492993.00,463413.42,,,Standard
+PRJ-0371,2025-03-07,2025-03-29,,,Summit Civic Group,Southeast,Public Agency,Healthcare,Riley Chen,Quote Submitted,177.4,405891.20,357083.74,,,Standard
+PRJ-0372,2024-07-01,2024-07-21,2024-07-17,,Redwood Project Partners,Mid-Atlantic,Developer,Civic,Jordan Lee,Fabrication,439.5,880758.00,775547.98,416.7,850377.30,Urgent
+PRJ-0373,2025-05-30,2025-06-21,,,Atlas Urban Development,Southeast,Developer,Healthcare,Casey Rivera,No Response,288.2,529135.20,396681.47,,,Standard
+PRJ-0374,2025-01-12,2025-02-22,,,Evergreen Contracting,Midwest,Developer,Education,Taylor Brooks,Lost,626.6,1290169.40,1041708.15,,,Standard
+PRJ-0375,2024-11-24,2024-12-15,,,Crownpoint Civil,Midwest,Developer,Multifamily,Casey Rivera,Lost,474.2,1102989.20,868063.86,,,High
+PRJ-0376,2025-05-18,2025-06-13,,,Westmark Builders,Northeast,General Contractor,Multifamily,Taylor Brooks,Quote Submitted,195.4,399202.20,322793.91,,,Standard
+PRJ-0377,2024-02-26,2024-03-23,,,Cedarline Construction,Midwest,General Contractor,Multifamily,Taylor Brooks,Estimating,307.1,706022.90,533045.36,,,Standard
+PRJ-0378,2025-03-27,2025-05-03,2025-04-28,2025-07-07,Harborlight Construction,Midwest,Specialty Contractor,Transportation,Casey Rivera,Ready for Delivery,362.0,846718.00,771574.85,338.6,865738.41,Standard
+PRJ-0379,2026-06-18,2026-07-15,,,Pioneer Structures,Mid-Atlantic,General Contractor,Multifamily,Avery Morgan,Estimating,260.1,567278.10,478268.95,,,Standard
+PRJ-0380,2026-04-14,2026-05-06,,,Atlas Urban Development,Northeast,Developer,Civic,Taylor Brooks,No Response,213.0,430473.00,343737.80,,,Standard
+PRJ-0381,2026-02-12,2026-03-08,,,Crownpoint Civil,Northeast,Developer,Multifamily,Riley Chen,No Response,342.7,712130.60,571406.76,,,Standard
+PRJ-0382,2024-08-13,2024-09-02,,,Meridian Siteworks,Northeast,Specialty Contractor,Multifamily,Taylor Brooks,No Response,549.3,1134304.50,865111.81,,,High
+PRJ-0383,2026-01-30,2026-03-01,,,Cedarline Construction,Southeast,Developer,Healthcare,Riley Chen,Lost,196.2,458519.40,359299.30,,,Standard
+PRJ-0384,2024-02-28,2024-04-05,,,Granite Peak Contractors,Northeast,Public Agency,Healthcare,Avery Morgan,Lost,214.8,444206.40,395080.10,,,High
+PRJ-0385,2026-07-19,2026-08-17,,,Crownpoint Civil,Midwest,General Contractor,Commercial,Jordan Lee,Bid Review,226.6,464756.60,380468.65,,,Standard
+PRJ-0386,2025-03-11,2025-04-12,,,Ironwood Development,Southeast,Specialty Contractor,Healthcare,Avery Morgan,Quote Submitted,565.0,1019825.00,885738.66,,,Standard
+PRJ-0387,2024-01-11,2024-02-20,,,Meridian Siteworks,Southeast,General Contractor,Education,Avery Morgan,Bid Review,611.3,1091170.50,888417.01,,,High
+PRJ-0388,2026-06-17,2026-07-24,,,Evergreen Contracting,Mid-Atlantic,Developer,Transportation,Taylor Brooks,No Response,153.0,239139.00,199015.89,,,Standard
+PRJ-0389,2025-08-29,2025-09-20,,,Evergreen Contracting,Mid-Atlantic,Developer,Civic,Avery Morgan,Lost,311.0,547049.00,434201.55,,,Standard
+PRJ-0390,2024-04-30,2024-06-03,,,Cedarline Construction,Mid-Atlantic,General Contractor,Civic,Avery Morgan,Lost,623.7,1203741.00,1028661.12,,,Standard
+PRJ-0391,2024-11-06,2024-12-10,,,Silverline Contractors,Midwest,Specialty Contractor,Commercial,Avery Morgan,No Response,370.4,761542.40,564636.12,,,Standard
+PRJ-0392,2024-03-10,2024-04-20,,,Redwood Project Partners,Mid-Atlantic,Specialty Contractor,Multifamily,Jordan Lee,Estimating,116.5,244650.00,187780.49,,,Standard
+PRJ-0393,2024-01-26,2024-03-07,,,Beacon Municipal Group,Southeast,Specialty Contractor,Civic,Jordan Lee,No Response,736.9,1171671.00,1040594.24,,,High
+PRJ-0394,2024-03-16,2024-04-25,2024-04-16,2024-05-17,Brightpath Construction,Southeast,General Contractor,Civic,Avery Morgan,Delivered,208.8,415094.40,360940.01,216.8,382154.40,High
+PRJ-0395,2026-01-13,2026-02-24,,,Ironwood Development,Mid-Atlantic,Specialty Contractor,Commercial,Taylor Brooks,Bid Review,519.8,891976.80,614587.36,,,Standard
+PRJ-0396,2024-11-11,2024-12-25,,,Northstar Builders,Mid-Atlantic,Developer,Healthcare,Jordan Lee,Estimating,575.9,1001490.10,824247.71,,,Standard
+PRJ-0397,2024-03-20,2024-04-18,,,Atlas Urban Development,Northeast,Developer,Healthcare,Riley Chen,Estimating,488.9,813040.70,668460.99,,,Standard
+PRJ-0398,2025-09-29,2025-10-19,2025-10-09,2025-12-04,Lakeshore Projects,Mid-Atlantic,Specialty Contractor,Multifamily,Jordan Lee,Delivered,574.6,1331922.80,1068908.63,541.4,1157726.86,Standard
+PRJ-0399,2025-12-01,2026-01-14,,,Harborlight Construction,Midwest,Developer,Healthcare,Taylor Brooks,Estimating,364.6,624559.80,560308.77,,,Urgent
+PRJ-0400,2026-08-28,2026-10-08,,,Bluehaven Infrastructure,Mid-Atlantic,Developer,Multifamily,Riley Chen,Lost,128.6,285749.20,242708.77,,,Standard
+PRJ-0401,2025-05-11,2025-06-01,,,Keystone Works,Southeast,Public Agency,Transportation,Avery Morgan,Lost,109.6,173935.20,140256.50,,,Standard
+PRJ-0402,2024-08-13,2024-09-12,,,Silverline Contractors,Mid-Atlantic,Public Agency,Multifamily,Avery Morgan,Quote Submitted,190.5,401955.00,288306.87,,,Standard
+PRJ-0403,2024-08-28,2024-10-09,2024-09-27,2024-12-27,Silverline Contractors,Northeast,Developer,Transportation,Jordan Lee,Delivered,208.0,430560.00,370430.42,210.3,406115.86,Standard
+PRJ-0404,2025-11-14,2025-12-04,,,Meridian Siteworks,Northeast,Specialty Contractor,Multifamily,Riley Chen,Lost,342.9,796899.60,596919.41,,,Standard
+PRJ-0405,2024-03-22,2024-05-02,2024-04-16,2024-05-17,Evergreen Contracting,Northeast,General Contractor,Commercial,Taylor Brooks,Ready for Delivery,332.2,698948.80,548919.29,314.9,616988.92,Standard
+PRJ-0406,2025-02-15,2025-03-19,,,Cedarline Construction,Midwest,Public Agency,Civic,Jordan Lee,Lost,577.8,1176978.60,1047117.96,,,Standard
+PRJ-0407,2024-04-02,2024-04-25,,,Clearwater Public Works,Northeast,General Contractor,Civic,Taylor Brooks,Quote Submitted,198.9,398197.80,342366.35,,,Standard
+PRJ-0408,2025-06-05,2025-07-15,,,Evergreen Contracting,Midwest,Specialty Contractor,Multifamily,Casey Rivera,No Response,184.3,414306.40,332036.83,,,Standard
+PRJ-0409,2024-08-05,2024-08-29,,,Greenfield Build Co.,Northeast,Developer,Civic,Jordan Lee,Lost,362.7,638714.70,512881.60,,,Urgent
+PRJ-0410,2026-06-22,2026-07-14,,,Pioneer Structures,Northeast,Specialty Contractor,Commercial,Casey Rivera,Estimating,569.9,1108455.50,875796.31,,,Standard
+PRJ-0411,2026-04-19,2026-05-23,,,Keystone Works,Northeast,General Contractor,Multifamily,Taylor Brooks,Quote Submitted,194.8,402846.40,304424.21,,,High
+PRJ-0412,2025-06-21,2025-07-28,,,Cedarline Construction,Northeast,General Contractor,Transportation,Casey Rivera,Quote Submitted,417.9,905589.30,730894.57,,,Standard
+PRJ-0413,2025-11-13,2025-12-19,,,Northstar Builders,Southeast,General Contractor,Multifamily,Avery Morgan,Bid Review,399.1,897176.80,620455.88,,,Standard
+PRJ-0414,2024-06-22,2024-07-30,,,Ridgeway Engineering,Northeast,Developer,Education,Avery Morgan,Lost,193.7,309338.90,234650.71,,,Standard
+PRJ-0415,2026-07-19,2026-08-17,2026-08-11,,Lakeshore Projects,Southeast,Public Agency,Transportation,Jordan Lee,Fabrication,307.2,479539.20,395466.35,311.9,424281.12,Standard
+PRJ-0416,2025-01-20,2025-02-12,2025-01-27,,Lakeshore Projects,Mid-Atlantic,General Contractor,Transportation,Casey Rivera,Fabrication,307.2,639897.60,561579.17,288.5,611712.63,Standard
+PRJ-0417,2024-05-05,2024-05-30,,,Clearwater Public Works,Mid-Atlantic,General Contractor,Education,Taylor Brooks,Lost,165.8,334916.00,295967.86,,,Standard
+PRJ-0418,2025-09-02,2025-10-03,,,Atlas Urban Development,Mid-Atlantic,General Contractor,Commercial,Riley Chen,Lost,115.7,236143.70,182952.46,,,Standard
+PRJ-0419,2026-07-12,2026-08-11,,,Ridgeway Engineering,Midwest,Developer,Education,Avery Morgan,Estimating,78.2,168912.00,130169.15,,,Standard
+PRJ-0420,2025-05-22,2025-06-30,,,Redwood Project Partners,Northeast,Public Agency,Education,Casey Rivera,Bid Review,508.6,1144350.00,967698.35,,,Standard
+PRJ-0421,2026-04-13,2026-05-08,,,Crownpoint Civil,Southeast,Developer,Healthcare,Avery Morgan,Lost,425.6,909932.80,802952.83,,,Standard
+PRJ-0422,2025-09-20,2025-10-25,2025-10-17,,Greenfield Build Co.,Southeast,Public Agency,Education,Taylor Brooks,Awarded,163.8,347419.80,279985.38,160.0,299311.00,Standard
+PRJ-0423,2025-06-15,2025-07-27,,,Stonebridge General,Midwest,Public Agency,Commercial,Avery Morgan,No Response,476.1,948391.20,744316.32,,,Urgent
+PRJ-0424,2025-09-24,2025-11-03,,,Stonebridge General,Northeast,Specialty Contractor,Healthcare,Riley Chen,Estimating,309.9,590359.50,521339.67,,,Standard
+PRJ-0425,2025-04-07,2025-05-09,,,Silverline Contractors,Midwest,Public Agency,Healthcare,Taylor Brooks,Bid Review,223.5,438507.00,404332.63,,,Standard
+PRJ-0426,2025-02-08,2025-03-24,2025-03-21,2025-06-26,Brightpath Construction,Mid-Atlantic,Developer,Civic,Avery Morgan,Delivered,156.7,310892.80,289698.67,151.1,282884.76,Standard
+PRJ-0427,2024-01-06,2024-01-29,,,Brightpath Construction,Southeast,General Contractor,Transportation,Jordan Lee,Estimating,520.4,999688.40,833696.50,,,Standard
+PRJ-0428,2024-07-02,2024-07-22,,,Clearwater Public Works,Southeast,Public Agency,Education,Riley Chen,Quote Submitted,311.8,639501.80,509439.37,,,Standard
+PRJ-0429,2024-11-08,2024-12-14,,,Atlas Urban Development,Midwest,Public Agency,Civic,Riley Chen,Lost,52.1,109722.60,103139.24,,,Standard
+PRJ-0430,2024-10-01,2024-10-23,,,Bluehaven Infrastructure,Mid-Atlantic,General Contractor,Education,Casey Rivera,Lost,170.9,392215.50,316658.11,,,Standard
+PRJ-0431,2024-06-24,2024-07-18,,,Redwood Project Partners,Midwest,Developer,Commercial,Riley Chen,No Response,421.6,878192.80,728438.15,,,Urgent
+PRJ-0432,2025-12-27,2026-01-31,,,Lakeshore Projects,Mid-Atlantic,Specialty Contractor,Transportation,Taylor Brooks,No Response,222.4,386308.80,363130.27,,,Standard
+PRJ-0433,2024-06-20,2024-07-21,,,Atlas Urban Development,Midwest,Specialty Contractor,Civic,Riley Chen,No Response,393.9,709413.90,627992.22,,,Standard
+PRJ-0434,2026-06-26,2026-07-24,2026-07-03,2026-09-19,Brightpath Construction,Northeast,Specialty Contractor,Education,Jordan Lee,Delivered,165.5,262317.50,217743.07,146.5,243786.69,Standard
+PRJ-0435,2024-08-09,2024-09-11,,,Meridian Siteworks,Northeast,Public Agency,Commercial,Jordan Lee,Lost,292.2,663294.00,525838.67,,,Standard
+PRJ-0436,2026-05-27,2026-06-28,,,Crownpoint Civil,Mid-Atlantic,Developer,Education,Riley Chen,Bid Review,243.8,407877.40,350981.76,,,Standard
+PRJ-0437,2026-08-18,2026-09-23,,,Granite Peak Contractors,Midwest,General Contractor,Education,Jordan Lee,Bid Review,363.8,621734.20,495342.29,,,High
+PRJ-0438,2026-02-21,2026-03-29,,,Atlas Urban Development,Northeast,General Contractor,Education,Riley Chen,Quote Submitted,726.6,1547658.00,1333698.04,,,Standard
+PRJ-0439,2025-11-28,2026-01-02,2025-12-17,,Crownpoint Civil,Mid-Atlantic,Public Agency,Civic,Taylor Brooks,Fabrication,167.9,316995.20,297975.49,177.7,305247.59,High
+PRJ-0440,2024-03-04,2024-04-11,2024-03-25,2024-06-04,Lakeshore Projects,Midwest,General Contractor,Multifamily,Riley Chen,Delivered,481.6,977648.00,715080.86,496.3,705376.37,Standard
+PRJ-0441,2025-03-07,2025-04-07,,,Keystone Works,Northeast,Public Agency,Civic,Casey Rivera,Lost,195.9,417071.10,392046.83,,,High
+PRJ-0442,2025-09-29,2025-11-07,,,Granite Peak Contractors,Northeast,Specialty Contractor,Transportation,Jordan Lee,No Response,114.8,211002.40,178856.89,,,High
+PRJ-0443,2026-08-11,2026-09-17,,,Cedarline Construction,Mid-Atlantic,General Contractor,Education,Riley Chen,Bid Review,546.6,1047285.60,834161.82,,,High
+PRJ-0444,2026-05-18,2026-06-12,2026-06-06,2026-07-09,Harborlight Construction,Northeast,Specialty Contractor,Multifamily,Riley Chen,Delivered,435.1,940686.20,740945.77,391.9,736697.02,Standard
+PRJ-0445,2026-02-11,2026-03-28,,,Meridian Siteworks,Southeast,Specialty Contractor,Commercial,Riley Chen,Estimating,309.5,573503.50,460682.65,,,High
+PRJ-0446,2024-01-23,2024-02-28,,,Brightpath Construction,Southeast,Developer,Education,Riley Chen,Lost,615.6,1174564.80,945076.81,,,Standard
+PRJ-0447,2026-01-06,2026-02-05,,,Redwood Project Partners,Mid-Atlantic,General Contractor,Healthcare,Casey Rivera,Bid Review,418.3,828652.30,684205.30,,,Standard
+PRJ-0448,2026-09-01,2026-10-11,,,Stonebridge General,Northeast,Developer,Transportation,Taylor Brooks,Lost,371.9,585370.60,550248.36,,,Urgent
+PRJ-0449,2026-08-12,2026-09-03,,,Atlas Urban Development,Mid-Atlantic,Developer,Civic,Taylor Brooks,Lost,113.3,215836.50,179484.51,,,Standard
+PRJ-0450,2024-11-08,2024-12-23,2024-11-21,2025-02-21,Crownpoint Civil,Mid-Atlantic,Specialty Contractor,Education,Jordan Lee,Delivered,77.7,164102.40,138865.46,69.4,141075.92,Standard
+PRJ-0451,2025-04-05,2025-05-15,,,Clearwater Public Works,Midwest,Specialty Contractor,Transportation,Jordan Lee,Bid Review,194.3,341968.00,293884.80,,,High
+PRJ-0452,2025-12-01,2025-12-28,,,Bluehaven Infrastructure,Southeast,General Contractor,Education,Taylor Brooks,No Response,349.1,558560.00,463247.12,,,High
+PRJ-0453,2024-07-19,2024-08-18,,,Bluehaven Infrastructure,Mid-Atlantic,Public Agency,Multifamily,Casey Rivera,Lost,307.3,644408.10,521981.29,,,High
+PRJ-0454,2026-07-05,2026-08-17,,,Meridian Siteworks,Southeast,Developer,Transportation,Taylor Brooks,Quote Submitted,137.2,318166.80,276410.02,,,Standard
+PRJ-0455,2026-08-26,2026-10-02,,,Redwood Project Partners,Mid-Atlantic,Specialty Contractor,Multifamily,Casey Rivera,Bid Review,182.9,309101.00,242670.63,,,Standard
+PRJ-0456,2025-05-19,2025-06-11,,,Harborlight Construction,Southeast,Public Agency,Multifamily,Taylor Brooks,No Response,458.2,856375.80,665491.51,,,High
+PRJ-0457,2026-03-17,2026-04-19,,,Cedarline Construction,Midwest,Specialty Contractor,Healthcare,Avery Morgan,No Response,233.2,383614.00,318572.76,,,Standard
+PRJ-0458,2024-04-10,2024-05-24,,,Oak & River Builders,Mid-Atlantic,Specialty Contractor,Education,Taylor Brooks,No Response,249.4,399040.00,292578.54,,,High
+PRJ-0459,2026-08-18,2026-09-20,2026-09-14,2026-12-01,Meridian Siteworks,Southeast,Public Agency,Education,Avery Morgan,Delivered,390.7,843912.00,673010.71,386.8,708173.52,Standard
+PRJ-0460,2026-06-17,2026-07-08,,,Pioneer Structures,Mid-Atlantic,Developer,Civic,Casey Rivera,Lost,218.5,417772.00,392705.68,,,Standard
+PRJ-0461,2024-01-09,2024-01-29,,,Stonebridge General,Southeast,Developer,Education,Riley Chen,Estimating,448.7,1000601.00,798976.33,,,High
+PRJ-0462,2025-04-28,2025-05-31,2025-05-26,,Meridian Siteworks,Mid-Atlantic,Specialty Contractor,Transportation,Casey Rivera,Awarded,291.2,648502.40,538197.65,317.5,544511.52,High
+PRJ-0463,2025-01-16,2025-02-14,,,Ironwood Development,Mid-Atlantic,General Contractor,Education,Casey Rivera,No Response,211.9,469994.20,369210.41,,,Standard
+PRJ-0464,2025-03-10,2025-04-14,,,Harborlight Construction,Northeast,General Contractor,Multifamily,Taylor Brooks,Lost,170.0,300050.00,240908.93,,,High
+PRJ-0465,2025-10-21,2025-11-21,,,Silverline Contractors,Mid-Atlantic,Developer,Education,Avery Morgan,No Response,352.1,711594.10,625601.97,,,Standard
+PRJ-0466,2026-01-02,2026-02-13,,,Oak & River Builders,Southeast,Public Agency,Transportation,Jordan Lee,No Response,205.6,357127.20,322512.45,,,High
+PRJ-0467,2025-11-29,2025-12-22,,,Silverline Contractors,Southeast,General Contractor,Education,Taylor Brooks,Quote Submitted,315.4,722581.40,561159.32,,,Standard
+PRJ-0468,2024-07-26,2024-09-01,,,Summit Civic Group,Southeast,Developer,Multifamily,Avery Morgan,Estimating,272.6,454424.20,386643.38,,,Standard
+PRJ-0469,2026-01-30,2026-03-15,,,Ironwood Development,Southeast,Developer,Transportation,Jordan Lee,Lost,316.4,679627.20,564446.27,,,Standard
+PRJ-0470,2024-02-13,2024-03-05,,,Granite Peak Contractors,Southeast,Specialty Contractor,Civic,Casey Rivera,Estimating,522.8,1203485.60,1097148.58,,,Standard
+PRJ-0471,2026-08-25,2026-09-15,,,Brightpath Construction,Southeast,General Contractor,Healthcare,Jordan Lee,No Response,218.6,508682.20,442115.51,,,Standard
+PRJ-0472,2025-01-27,2025-03-08,2025-02-02,2025-04-08,Evergreen Contracting,Southeast,Public Agency,Civic,Casey Rivera,Ready for Delivery,562.5,1189125.00,1053175.19,596.0,1091826.77,Standard
+PRJ-0473,2025-06-01,2025-07-13,,,Northstar Builders,Mid-Atlantic,Developer,Multifamily,Casey Rivera,Estimating,486.3,953148.00,731551.87,,,Standard
+PRJ-0474,2024-06-08,2024-06-30,,,Redwood Project Partners,Northeast,General Contractor,Commercial,Avery Morgan,Bid Review,307.6,516460.40,379145.94,,,Standard
+PRJ-0475,2026-03-21,2026-04-11,,,Pioneer Structures,Mid-Atlantic,Developer,Multifamily,Taylor Brooks,No Response,347.6,620813.60,486664.06,,,Urgent
+PRJ-0476,2025-06-21,2025-07-12,,,Granite Peak Contractors,Northeast,Specialty Contractor,Healthcare,Jordan Lee,No Response,375.3,667283.40,555051.55,,,Standard
+PRJ-0477,2024-12-13,2025-01-18,,,Oak & River Builders,Midwest,Specialty Contractor,Education,Taylor Brooks,Lost,304.3,676154.60,549701.24,,,Standard
+PRJ-0478,2024-01-25,2024-03-02,,,Clearwater Public Works,Northeast,Specialty Contractor,Multifamily,Taylor Brooks,Quote Submitted,239.0,380488.00,323969.39,,,Standard
+PRJ-0479,2024-12-26,2025-01-19,,,Silverline Contractors,Midwest,Specialty Contractor,Healthcare,Jordan Lee,No Response,453.7,955492.20,838382.32,,,Standard
+PRJ-0480,2025-08-13,2025-09-20,,,Meridian Siteworks,Mid-Atlantic,Public Agency,Healthcare,Casey Rivera,Quote Submitted,198.3,356940.00,305614.34,,,Standard
+PRJ-0481,2024-03-28,2024-04-19,,,Crownpoint Civil,Southeast,Specialty Contractor,Civic,Taylor Brooks,Bid Review,105.8,247466.20,216756.49,,,Standard
+PRJ-0482,2026-06-08,2026-07-05,,,Brightpath Construction,Southeast,Developer,Transportation,Casey Rivera,Bid Review,353.6,776152.00,686738.92,,,Urgent
+PRJ-0483,2024-11-20,2024-12-31,,,Keystone Works,Mid-Atlantic,Developer,Transportation,Jordan Lee,Lost,177.8,343509.60,322899.02,,,Standard
+PRJ-0484,2025-12-31,2026-01-23,,,Ironwood Development,Midwest,General Contractor,Transportation,Taylor Brooks,Estimating,304.2,591973.20,480302.58,,,Standard
+PRJ-0485,2024-05-27,2024-06-20,2024-06-15,,Meridian Siteworks,Mid-Atlantic,Developer,Education,Avery Morgan,Fabrication,255.0,528360.00,476595.59,278.8,473332.40,Standard
+PRJ-0486,2024-01-17,2024-03-02,,,Ironwood Development,Mid-Atlantic,Specialty Contractor,Commercial,Jordan Lee,No Response,479.0,1111280.00,859485.42,,,High
+PRJ-0487,2025-09-23,2025-10-21,,,Atlas Urban Development,Northeast,Developer,Multifamily,Casey Rivera,Bid Review,574.9,897418.90,718943.34,,,Standard
+PRJ-0488,2025-03-23,2025-05-02,,,Ironwood Development,Northeast,Specialty Contractor,Commercial,Taylor Brooks,No Response,100.2,194588.40,167482.39,,,High
+PRJ-0489,2024-04-02,2024-05-07,,,Cedarline Construction,Southeast,Public Agency,Transportation,Riley Chen,Lost,435.2,1019238.40,835420.71,,,Standard
+PRJ-0490,2024-08-22,2024-10-01,,,Pioneer Structures,Southeast,Developer,Civic,Avery Morgan,Estimating,375.0,658125.00,603708.20,,,Standard
+PRJ-0491,2024-01-15,2024-02-06,,,Summit Civic Group,Mid-Atlantic,Specialty Contractor,Multifamily,Casey Rivera,Lost,119.9,204669.30,165008.46,,,Standard
+PRJ-0492,2025-08-14,2025-09-18,2025-09-11,2025-10-19,Ridgeway Engineering,Northeast,Public Agency,Civic,Avery Morgan,Ready for Delivery,192.6,424490.40,388155.58,196.7,430469.01,Standard
+PRJ-0493,2024-02-09,2024-03-08,,,Oak & River Builders,Midwest,General Contractor,Civic,Casey Rivera,Lost,441.3,813757.20,673261.67,,,High
+PRJ-0494,2025-06-16,2025-07-07,2025-07-01,2025-09-01,Crownpoint Civil,Southeast,Public Agency,Transportation,Casey Rivera,Ready for Delivery,424.4,732938.80,652115.67,395.6,735228.40,Standard
+PRJ-0495,2026-05-24,2026-07-05,,,Evergreen Contracting,Northeast,General Contractor,Civic,Taylor Brooks,Quote Submitted,274.3,604831.50,500834.34,,,Urgent
+PRJ-0496,2025-09-15,2025-10-20,2025-10-11,2026-01-05,Pioneer Structures,Midwest,Public Agency,Education,Riley Chen,Delivered,194.1,312306.90,265095.53,212.4,279048.97,Standard
+PRJ-0497,2026-02-10,2026-03-25,,,Atlas Urban Development,Midwest,Developer,Civic,Riley Chen,Lost,244.9,491024.50,413287.45,,,Standard
+PRJ-0498,2024-11-18,2024-12-25,,,Bluehaven Infrastructure,Southeast,Developer,Civic,Taylor Brooks,Lost,275.8,542774.40,433082.49,,,High
+PRJ-0499,2025-10-01,2025-11-02,,,Bluehaven Infrastructure,Midwest,General Contractor,Civic,Taylor Brooks,Bid Review,481.2,1094730.00,921452.93,,,Standard
+PRJ-0500,2025-02-22,2025-03-26,,,Harborlight Construction,Northeast,Developer,Transportation,Casey Rivera,Lost,193.5,370165.50,318861.52,,,Standard
+PRJ-0501,2025-04-03,2025-04-23,2025-04-18,,Westmark Builders,Southeast,Specialty Contractor,Healthcare,Taylor Brooks,Awarded,242.8,564267.20,452672.14,267.5,450477.15,Standard
+PRJ-0502,2026-08-22,2026-09-17,,,Summit Civic Group,Northeast,Public Agency,Commercial,Riley Chen,Quote Submitted,267.4,496829.20,404711.45,,,Standard
+PRJ-0503,2025-08-05,2025-08-28,,,Clearwater Public Works,Southeast,Specialty Contractor,Commercial,Casey Rivera,Lost,140.1,284683.20,225730.00,,,High
+PRJ-0504,2024-11-08,2024-12-02,,,Northstar Builders,Mid-Atlantic,General Contractor,Commercial,Taylor Brooks,Bid Review,179.7,380245.20,326895.39,,,Standard
+PRJ-0505,2024-09-18,2024-11-01,2024-09-25,,Redwood Project Partners,Mid-Atlantic,Public Agency,Multifamily,Avery Morgan,Fabrication,502.3,850393.90,677969.67,551.2,714701.84,Standard
+PRJ-0506,2025-01-01,2025-02-04,,,Granite Peak Contractors,Mid-Atlantic,Specialty Contractor,Education,Jordan Lee,Lost,224.1,410103.00,327642.80,,,Standard
+PRJ-0507,2024-04-25,2024-05-24,,,Redwood Project Partners,Northeast,Public Agency,Healthcare,Riley Chen,Lost,583.4,1123045.00,973759.80,,,High
+PRJ-0508,2026-03-27,2026-04-21,,,Greenfield Build Co.,Northeast,Developer,Healthcare,Riley Chen,No Response,69.3,160290.90,140537.99,,,Standard
+PRJ-0509,2024-05-24,2024-06-30,,,Brightpath Construction,Midwest,Developer,Healthcare,Jordan Lee,Lost,287.5,647737.50,522107.55,,,Standard
+PRJ-0510,2025-06-03,2025-07-11,,,Brightpath Construction,Mid-Atlantic,Developer,Education,Taylor Brooks,Lost,399.5,634805.50,499521.37,,,Standard
+PRJ-0511,2026-07-03,2026-07-30,2026-07-18,2026-08-12,Ridgeway Engineering,Mid-Atlantic,Public Agency,Civic,Taylor Brooks,Ready for Delivery,230.7,508924.20,466287.12,218.0,481632.34,Standard
+PRJ-0512,2025-04-17,2025-05-26,,,Ironwood Development,Northeast,Specialty Contractor,Multifamily,Avery Morgan,No Response,408.3,667978.80,552147.82,,,Standard
+PRJ-0513,2024-11-12,2024-12-10,,,Ridgeway Engineering,Mid-Atlantic,Specialty Contractor,Education,Jordan Lee,No Response,314.5,662966.00,535299.89,,,Standard
+PRJ-0514,2026-07-24,2026-08-18,2026-08-03,2026-10-20,Silverline Contractors,Southeast,Specialty Contractor,Commercial,Jordan Lee,Ready for Delivery,699.5,1492033.50,1065775.68,661.8,1078983.07,Standard
+PRJ-0515,2024-10-16,2024-11-20,,,Cedarline Construction,Southeast,Developer,Civic,Taylor Brooks,Lost,595.5,1241617.50,1024973.73,,,High
+PRJ-0516,2024-09-15,2024-10-25,2024-10-07,,Stonebridge General,Northeast,General Contractor,Multifamily,Jordan Lee,Awarded,154.7,306770.10,239981.67,172.0,254339.27,Standard
+PRJ-0517,2024-09-09,2024-10-03,,,Atlas Urban Development,Northeast,General Contractor,Multifamily,Riley Chen,Estimating,106.2,191372.40,157806.97,,,High
+PRJ-0518,2026-01-03,2026-01-29,,,Ridgeway Engineering,Mid-Atlantic,General Contractor,Education,Taylor Brooks,Lost,482.3,1066365.30,862558.31,,,High
+PRJ-0519,2026-08-12,2026-09-24,,,Evergreen Contracting,Midwest,Specialty Contractor,Healthcare,Jordan Lee,Bid Review,525.7,1099764.40,947647.51,,,High
+PRJ-0520,2024-05-09,2024-06-21,2024-06-01,,Ridgeway Engineering,Mid-Atlantic,Developer,Transportation,Taylor Brooks,Awarded,127.8,220838.40,184211.47,138.6,206470.46,Urgent
+PRJ-0521,2026-02-02,2026-02-24,,,Ridgeway Engineering,Northeast,General Contractor,Education,Avery Morgan,Quote Submitted,107.5,197800.00,169473.73,,,High
+PRJ-0522,2025-05-19,2025-06-30,2025-06-17,2025-08-10,Clearwater Public Works,Southeast,Developer,Transportation,Riley Chen,Ready for Delivery,558.4,882830.40,748219.99,585.8,796773.45,Standard
+PRJ-0523,2025-04-12,2025-05-10,,,Pioneer Structures,Mid-Atlantic,General Contractor,Transportation,Avery Morgan,Lost,222.6,474805.80,402328.43,,,Standard
+PRJ-0524,2026-06-09,2026-07-09,,,Greenfield Build Co.,Southeast,General Contractor,Civic,Riley Chen,Quote Submitted,154.4,358671.20,294426.71,,,Standard
+PRJ-0525,2026-08-09,2026-09-18,,,Evergreen Contracting,Southeast,Specialty Contractor,Multifamily,Casey Rivera,Quote Submitted,66.2,142197.60,104030.07,,,High
+PRJ-0526,2025-10-28,2025-11-30,,,Harborlight Construction,Southeast,Specialty Contractor,Education,Taylor Brooks,Estimating,347.5,589012.50,529204.40,,,Urgent
+PRJ-0527,2024-11-22,2025-01-04,,,Crownpoint Civil,Midwest,Specialty Contractor,Multifamily,Avery Morgan,Quote Submitted,245.7,395331.30,330194.78,,,High
+PRJ-0528,2026-08-20,2026-09-26,,,Lakeshore Projects,Northeast,Public Agency,Civic,Casey Rivera,No Response,535.0,1186630.00,1077548.72,,,Standard
+PRJ-0529,2024-11-15,2024-12-17,2024-12-07,,Redwood Project Partners,Midwest,Developer,Transportation,Jordan Lee,Awarded,208.5,470167.50,379410.16,199.9,369693.03,Standard
+PRJ-0530,2024-02-07,2024-03-12,,,Brightpath Construction,Northeast,Developer,Healthcare,Riley Chen,Estimating,207.1,369259.30,316230.41,,,Standard
+PRJ-0531,2024-12-13,2025-01-04,,,Northstar Builders,Midwest,Developer,Commercial,Avery Morgan,Estimating,170.6,319533.80,248730.07,,,Standard
+PRJ-0532,2024-12-10,2025-01-24,,,Ironwood Development,Northeast,Public Agency,Commercial,Riley Chen,No Response,135.4,241959.80,192348.38,,,Urgent
+PRJ-0533,2026-07-11,2026-08-13,,,Clearwater Public Works,Northeast,General Contractor,Commercial,Jordan Lee,Lost,330.6,687978.60,525482.39,,,Standard
+PRJ-0534,2025-11-15,2025-12-10,,,Granite Peak Contractors,Northeast,General Contractor,Multifamily,Avery Morgan,No Response,700.9,1285450.60,993289.54,,,High
+PRJ-0535,2025-01-30,2025-02-21,,,Redwood Project Partners,Southeast,General Contractor,Multifamily,Avery Morgan,Lost,407.6,923621.60,728103.58,,,High
+PRJ-0536,2026-02-26,2026-04-02,2026-03-22,,Crownpoint Civil,Northeast,Developer,Commercial,Avery Morgan,Awarded,570.4,1315342.40,1094086.00,581.5,1214237.62,Standard
+PRJ-0537,2024-01-02,2024-02-07,,,Granite Peak Contractors,Northeast,General Contractor,Multifamily,Casey Rivera,Estimating,535.8,835848.00,611595.85,,,Standard
+PRJ-0538,2024-03-27,2024-04-24,,,Greenfield Build Co.,Mid-Atlantic,General Contractor,Healthcare,Riley Chen,Quote Submitted,701.7,1145174.40,950901.75,,,Standard
+PRJ-0539,2024-05-29,2024-06-19,2024-06-12,2024-08-17,Redwood Project Partners,Southeast,General Contractor,Multifamily,Casey Rivera,Ready for Delivery,211.0,364608.00,267160.59,206.2,271351.24,Standard
+PRJ-0540,2024-06-29,2024-07-25,,,Westmark Builders,Midwest,Specialty Contractor,Transportation,Casey Rivera,Quote Submitted,145.7,292857.00,254667.98,,,High
+PRJ-0541,2026-01-11,2026-02-14,,,Ironwood Development,Mid-Atlantic,Public Agency,Multifamily,Riley Chen,Bid Review,631.1,1199721.10,832003.15,,,Standard
+PRJ-0542,2025-11-15,2025-12-12,,,Cedarline Construction,Northeast,Specialty Contractor,Civic,Casey Rivera,Lost,34.7,80989.80,67659.42,,,Standard
+PRJ-0543,2026-09-08,2026-10-19,,,Bluehaven Infrastructure,Mid-Atlantic,General Contractor,Multifamily,Avery Morgan,Bid Review,294.0,525084.00,402861.77,,,High
+PRJ-0544,2025-06-30,2025-08-04,,,Bluehaven Infrastructure,Mid-Atlantic,Developer,Multifamily,Riley Chen,Quote Submitted,315.1,734498.10,547532.66,,,Standard
+PRJ-0545,2026-03-26,2026-04-23,,,Pioneer Structures,Southeast,General Contractor,Multifamily,Riley Chen,Estimating,255.0,418710.00,345949.92,,,Standard
+PRJ-0546,2026-07-30,2026-08-21,,,Greenfield Build Co.,Southeast,Specialty Contractor,Transportation,Jordan Lee,Quote Submitted,458.6,713581.60,610277.35,,,High
+PRJ-0547,2025-06-24,2025-07-23,,,Ironwood Development,Mid-Atlantic,Public Agency,Healthcare,Jordan Lee,Lost,299.8,599000.40,539561.81,,,High
+PRJ-0548,2024-08-30,2024-10-11,,,Greenfield Build Co.,Northeast,General Contractor,Multifamily,Casey Rivera,Bid Review,524.8,1120448.00,955724.31,,,High
+PRJ-0549,2026-01-23,2026-02-28,,,Northstar Builders,Northeast,Specialty Contractor,Healthcare,Taylor Brooks,Estimating,337.5,704700.00,614436.19,,,High
+PRJ-0550,2025-01-15,2025-02-14,,,Bluehaven Infrastructure,Midwest,Specialty Contractor,Multifamily,Avery Morgan,Lost,315.6,604689.60,521017.83,,,High
+PRJ-0551,2025-10-12,2025-11-22,,,Ironwood Development,Southeast,Specialty Contractor,Multifamily,Avery Morgan,Estimating,286.1,542731.70,374003.88,,,Standard
+PRJ-0552,2024-03-28,2024-04-28,,,Oak & River Builders,Southeast,Specialty Contractor,Commercial,Riley Chen,Lost,248.4,528346.80,452040.58,,,Standard
+PRJ-0553,2026-06-11,2026-07-05,,,Atlas Urban Development,Mid-Atlantic,Specialty Contractor,Healthcare,Riley Chen,Quote Submitted,561.2,1276168.80,1028728.75,,,Standard
+PRJ-0554,2026-01-18,2026-03-02,,,Lakeshore Projects,Mid-Atlantic,Public Agency,Civic,Jordan Lee,No Response,287.1,633916.80,511215.07,,,Standard
+PRJ-0555,2025-02-14,2025-03-12,,,Ridgeway Engineering,Northeast,Public Agency,Civic,Taylor Brooks,Lost,177.2,362019.60,317284.48,,,Urgent
+PRJ-0556,2024-03-06,2024-03-31,,,Westmark Builders,Midwest,Specialty Contractor,Transportation,Casey Rivera,Quote Submitted,350.1,645234.30,559287.49,,,Standard
+PRJ-0557,2026-02-24,2026-03-26,,,Clearwater Public Works,Mid-Atlantic,General Contractor,Multifamily,Jordan Lee,No Response,97.3,178934.70,147765.48,,,Standard
+PRJ-0558,2025-09-14,2025-10-08,,,Greenfield Build Co.,Midwest,General Contractor,Transportation,Riley Chen,Estimating,117.3,240582.30,203992.51,,,High
+PRJ-0559,2024-05-04,2024-06-06,2024-06-01,,Atlas Urban Development,Mid-Atlantic,Specialty Contractor,Civic,Jordan Lee,Fabrication,266.2,520421.00,468335.78,260.6,510927.00,Standard
+PRJ-0560,2024-06-12,2024-07-19,,,Lakeshore Projects,Midwest,Specialty Contractor,Transportation,Jordan Lee,Lost,208.8,475228.80,394900.39,,,High
+PRJ-0561,2025-06-06,2025-06-27,2025-06-19,,Meridian Siteworks,Northeast,General Contractor,Education,Taylor Brooks,Fabrication,194.9,396231.70,342860.81,214.6,350334.89,Standard
+PRJ-0562,2024-07-07,2024-08-16,2024-08-09,2024-11-21,Evergreen Contracting,Southeast,General Contractor,Civic,Riley Chen,Delivered,516.7,941944.10,769849.42,546.8,799357.99,Standard
+PRJ-0563,2024-11-03,2024-12-14,,,Ironwood Development,Mid-Atlantic,General Contractor,Transportation,Riley Chen,Lost,231.2,520662.40,443650.95,,,Urgent
+PRJ-0564,2024-11-09,2024-12-22,2024-12-14,,Atlas Urban Development,Midwest,Public Agency,Education,Taylor Brooks,Awarded,650.7,1358661.60,1034724.79,692.7,1063978.05,Standard
+PRJ-0565,2026-04-13,2026-05-21,,,Northstar Builders,Southeast,General Contractor,Education,Casey Rivera,Quote Submitted,395.7,794169.90,621324.09,,,High
+PRJ-0566,2025-05-25,2025-06-30,,,Northstar Builders,Mid-Atlantic,Developer,Education,Riley Chen,Quote Submitted,182.7,383670.00,304883.21,,,High
+PRJ-0567,2026-05-22,2026-07-03,,,Summit Civic Group,Midwest,General Contractor,Healthcare,Jordan Lee,Quote Submitted,672.2,1535304.80,1320987.23,,,Standard
+PRJ-0568,2025-12-01,2025-12-31,,,Beacon Municipal Group,Northeast,Developer,Multifamily,Taylor Brooks,Lost,387.2,723676.80,543526.54,,,Standard
+PRJ-0569,2024-04-14,2024-05-17,,,Stonebridge General,Mid-Atlantic,Specialty Contractor,Civic,Riley Chen,Quote Submitted,85.6,192343.20,168890.39,,,High
+PRJ-0570,2024-11-07,2024-12-21,,,Atlas Urban Development,Southeast,Developer,Commercial,Casey Rivera,Lost,243.5,472146.50,379530.63,,,Standard
+PRJ-0571,2024-04-29,2024-06-02,,,Brightpath Construction,Northeast,General Contractor,Multifamily,Taylor Brooks,No Response,106.1,220688.00,184114.04,,,Standard
+PRJ-0572,2024-03-16,2024-04-05,,,Evergreen Contracting,Southeast,Specialty Contractor,Commercial,Taylor Brooks,No Response,177.8,386892.80,324126.91,,,Standard
+PRJ-0573,2026-03-08,2026-04-05,,,Ironwood Development,Northeast,Public Agency,Multifamily,Jordan Lee,Estimating,157.4,295439.80,231083.05,,,Standard
+PRJ-0574,2026-05-19,2026-06-20,2026-06-07,2026-09-08,Pioneer Structures,Southeast,Specialty Contractor,Multifamily,Jordan Lee,Ready for Delivery,250.3,423757.90,335113.70,264.5,350983.59,High
+PRJ-0575,2026-01-08,2026-02-21,2026-01-26,2026-04-23,Redwood Project Partners,Mid-Atlantic,Public Agency,Education,Taylor Brooks,Delivered,199.8,316483.20,255793.89,215.0,279472.16,Standard
+PRJ-0576,2026-08-27,2026-09-30,,,Crownpoint Civil,Mid-Atlantic,Specialty Contractor,Healthcare,Avery Morgan,No Response,530.8,1082301.20,786554.98,,,High
+PRJ-0577,2025-05-27,2025-06-23,,,Pioneer Structures,Northeast,Public Agency,Transportation,Jordan Lee,Estimating,88.1,188269.70,141585.74,,,Standard
+PRJ-0578,2026-05-19,2026-06-25,,,Bluehaven Infrastructure,Northeast,Specialty Contractor,Education,Riley Chen,Quote Submitted,562.3,1014951.50,932456.93,,,Urgent
+PRJ-0579,2024-08-09,2024-09-16,,,Greenfield Build Co.,Southeast,Developer,Transportation,Taylor Brooks,Lost,61.8,101413.80,85511.96,,,Standard
+PRJ-0580,2024-04-01,2024-05-01,,,Crownpoint Civil,Northeast,Developer,Transportation,Casey Rivera,Bid Review,401.3,679400.90,557300.22,,,Standard
+PRJ-0581,2025-11-06,2025-12-14,2025-11-30,,Stonebridge General,Southeast,Public Agency,Civic,Jordan Lee,Fabrication,132.2,228970.40,215232.18,138.3,240039.67,Standard
+PRJ-0582,2025-07-20,2025-08-20,,,Clearwater Public Works,Southeast,Public Agency,Civic,Taylor Brooks,Estimating,300.3,516215.70,443974.22,,,Standard
+PRJ-0583,2024-01-28,2024-03-03,,,Silverline Contractors,Midwest,Developer,Healthcare,Jordan Lee,Quote Submitted,207.3,347642.10,301976.59,,,Standard
+PRJ-0584,2025-03-18,2025-04-19,,,Clearwater Public Works,Mid-Atlantic,Public Agency,Healthcare,Casey Rivera,Lost,270.2,596061.20,482789.03,,,High
+PRJ-0585,2024-11-18,2024-12-30,,,Lakeshore Projects,Midwest,Public Agency,Multifamily,Taylor Brooks,Lost,380.3,658299.30,513318.84,,,Standard
+PRJ-0586,2024-04-04,2024-05-19,,,Oak & River Builders,Northeast,General Contractor,Transportation,Taylor Brooks,Estimating,628.5,1470690.00,1306748.18,,,Standard
+PRJ-0587,2025-09-11,2025-10-08,,,Summit Civic Group,Southeast,Specialty Contractor,Education,Riley Chen,Lost,244.2,416361.00,325560.21,,,Urgent
+PRJ-0588,2024-10-18,2024-11-11,2024-11-07,,Lakeshore Projects,Mid-Atlantic,Developer,Transportation,Avery Morgan,Fabrication,580.3,930801.20,874953.13,586.2,973289.00,Standard
+PRJ-0589,2024-07-04,2024-08-12,,,Atlas Urban Development,Mid-Atlantic,Specialty Contractor,Education,Riley Chen,No Response,506.5,978558.00,766908.61,,,Urgent
+PRJ-0590,2024-11-01,2024-11-28,,,Evergreen Contracting,Midwest,Developer,Healthcare,Avery Morgan,Bid Review,369.0,587448.00,525048.93,,,Urgent
+PRJ-0591,2025-01-27,2025-03-06,,,Redwood Project Partners,Midwest,Specialty Contractor,Education,Casey Rivera,Lost,87.8,167434.60,146141.18,,,Standard
+PRJ-0592,2024-08-20,2024-10-04,,,Brightpath Construction,Mid-Atlantic,Developer,Commercial,Riley Chen,Estimating,628.8,1368268.80,1229160.89,,,High
+PRJ-0593,2025-10-22,2025-11-28,,,Stonebridge General,Mid-Atlantic,Developer,Commercial,Jordan Lee,Quote Submitted,272.6,478413.00,362256.83,,,Standard
+PRJ-0594,2025-07-31,2025-09-07,,,Atlas Urban Development,Mid-Atlantic,Public Agency,Healthcare,Riley Chen,Quote Submitted,393.4,660912.00,581998.87,,,Urgent
+PRJ-0595,2024-08-06,2024-09-02,,,Stonebridge General,Northeast,General Contractor,Commercial,Riley Chen,Lost,415.4,839938.80,657616.35,,,High
+PRJ-0596,2026-03-04,2026-03-26,,,Summit Civic Group,Northeast,Public Agency,Commercial,Jordan Lee,Estimating,257.3,497103.60,370598.22,,,Standard
+PRJ-0597,2025-01-24,2025-03-04,2025-02-06,2025-05-08,Meridian Siteworks,Southeast,Public Agency,Civic,Riley Chen,Ready for Delivery,355.5,661585.50,597885.37,346.5,669978.69,Standard
+PRJ-0598,2025-08-21,2025-09-14,2025-09-12,2025-12-22,Brightpath Construction,Northeast,Specialty Contractor,Healthcare,Casey Rivera,Ready for Delivery,402.4,824517.60,676914.89,430.9,764694.37,Standard
+PRJ-0599,2026-02-28,2026-04-06,,,Harborlight Construction,Midwest,General Contractor,Healthcare,Jordan Lee,No Response,529.9,1079406.30,930742.85,,,Standard
+PRJ-0600,2026-04-08,2026-05-13,,,Redwood Project Partners,Northeast,General Contractor,Civic,Riley Chen,Bid Review,361.4,765083.80,694687.38,,,Standard
+PRJ-0601,2024-11-21,2025-01-04,2024-11-26,2025-03-05,Bluehaven Infrastructure,Midwest,Developer,Civic,Avery Morgan,Ready for Delivery,80.9,173773.20,146889.24,80.0,149113.87,Standard
+PRJ-0602,2026-07-02,2026-08-02,,,Westmark Builders,Mid-Atlantic,Developer,Healthcare,Taylor Brooks,No Response,512.6,857579.80,673521.29,,,Standard
+PRJ-0603,2026-08-30,2026-10-04,,,Beacon Municipal Group,Midwest,General Contractor,Commercial,Taylor Brooks,Lost,564.3,935045.10,715099.84,,,Standard
+PRJ-0604,2025-05-28,2025-07-01,,,Greenfield Build Co.,Northeast,Public Agency,Education,Avery Morgan,Lost,150.9,286257.30,238957.52,,,Standard
+PRJ-0605,2025-02-09,2025-03-10,,,Meridian Siteworks,Mid-Atlantic,Public Agency,Healthcare,Riley Chen,Lost,486.6,900696.60,842658.24,,,Standard
+PRJ-0606,2025-07-17,2025-08-17,,,Brightpath Construction,Mid-Atlantic,Specialty Contractor,Healthcare,Avery Morgan,Lost,470.5,925944.00,788914.71,,,Standard
+PRJ-0607,2024-06-07,2024-07-03,,,Meridian Siteworks,Northeast,General Contractor,Transportation,Jordan Lee,Lost,617.3,1138918.50,1007040.32,,,Urgent
+PRJ-0608,2025-02-25,2025-03-26,,,Brightpath Construction,Midwest,Public Agency,Healthcare,Riley Chen,Lost,620.4,1400863.20,1213884.60,,,Standard
+PRJ-0609,2026-05-01,2026-05-30,,,Pioneer Structures,Southeast,Developer,Healthcare,Riley Chen,Lost,318.7,642817.90,515255.66,,,High
+PRJ-0610,2025-10-08,2025-11-15,,,Granite Peak Contractors,Mid-Atlantic,Public Agency,Transportation,Jordan Lee,Estimating,305.4,679820.40,535740.74,,,Standard
+PRJ-0611,2026-09-19,2026-10-28,,,Atlas Urban Development,Northeast,Specialty Contractor,Civic,Jordan Lee,Quote Submitted,572.6,1195016.20,1123315.23,,,High
+PRJ-0612,2025-09-29,2025-10-20,2025-10-16,,Summit Civic Group,Mid-Atlantic,Specialty Contractor,Commercial,Avery Morgan,Awarded,265.5,434092.50,322796.56,263.0,360230.26,Standard
+PRJ-0613,2026-03-19,2026-05-03,2026-04-14,2026-06-08,Atlas Urban Development,Northeast,Specialty Contractor,Civic,Avery Morgan,Delivered,92.1,150399.30,134065.58,95.7,147084.31,Standard
+PRJ-0614,2025-06-28,2025-07-18,,,Pioneer Structures,Northeast,General Contractor,Transportation,Casey Rivera,Lost,267.5,602142.50,501970.22,,,Urgent
+PRJ-0615,2024-04-06,2024-05-15,,,Silverline Contractors,Mid-Atlantic,Public Agency,Commercial,Riley Chen,Lost,174.1,396251.60,320433.66,,,Standard
+PRJ-0616,2024-02-13,2024-03-24,,,Silverline Contractors,Midwest,Specialty Contractor,Multifamily,Riley Chen,No Response,504.5,1050873.50,866129.35,,,High
+PRJ-0617,2026-05-06,2026-05-30,,,Silverline Contractors,Northeast,Developer,Commercial,Riley Chen,Quote Submitted,167.2,356972.00,296442.31,,,Standard
+PRJ-0618,2024-02-15,2024-03-24,2024-03-04,2024-04-20,Beacon Municipal Group,Northeast,Specialty Contractor,Healthcare,Avery Morgan,Delivered,362.4,844029.60,788624.79,400.3,800539.19,Standard
+PRJ-0619,2025-06-29,2025-08-13,,,Atlas Urban Development,Southeast,Specialty Contractor,Education,Avery Morgan,Estimating,164.9,302426.60,239044.42,,,High
+PRJ-0620,2024-05-14,2024-06-03,2024-05-31,,Lakeshore Projects,Midwest,Specialty Contractor,Multifamily,Taylor Brooks,Awarded,189.3,325217.40,260113.91,200.3,289003.69,Standard
+PRJ-0621,2025-06-02,2025-07-08,,,Greenfield Build Co.,Southeast,Public Agency,Commercial,Jordan Lee,Estimating,277.0,614386.00,510649.01,,,Standard
+PRJ-0622,2026-04-05,2026-05-05,,,Crownpoint Civil,Northeast,Developer,Commercial,Avery Morgan,Estimating,545.6,918244.80,651116.61,,,Standard
+PRJ-0623,2024-02-02,2024-03-01,,,Granite Peak Contractors,Mid-Atlantic,Developer,Civic,Avery Morgan,Quote Submitted,506.1,910980.00,856321.20,,,Standard
+PRJ-0624,2024-03-24,2024-04-15,,,Lakeshore Projects,Northeast,General Contractor,Multifamily,Casey Rivera,Quote Submitted,479.5,878444.00,705870.08,,,Standard
+PRJ-0625,2026-02-09,2026-03-23,2026-03-03,,Summit Civic Group,Mid-Atlantic,Developer,Commercial,Taylor Brooks,Fabrication,152.4,262890.00,207375.20,136.2,232659.26,Standard
+PRJ-0626,2025-02-23,2025-03-31,,,Stonebridge General,Mid-Atlantic,General Contractor,Commercial,Casey Rivera,Estimating,233.5,456025.50,349157.40,,,High
+PRJ-0627,2025-01-31,2025-03-01,,,Brightpath Construction,Midwest,Public Agency,Education,Jordan Lee,Quote Submitted,210.9,459551.10,367654.99,,,Standard
+PRJ-0628,2025-02-05,2025-02-26,2025-02-24,,Silverline Contractors,Southeast,Developer,Education,Avery Morgan,Awarded,667.8,1536607.80,1395374.72,732.0,1420571.43,Urgent
+PRJ-0629,2026-04-19,2026-05-12,,,Bluehaven Infrastructure,Mid-Atlantic,Specialty Contractor,Education,Taylor Brooks,Quote Submitted,171.8,387237.20,295001.32,,,Standard
+PRJ-0630,2024-09-06,2024-10-05,,,Cedarline Construction,Southeast,Specialty Contractor,Civic,Casey Rivera,Lost,193.3,374228.80,317085.95,,,Standard
+PRJ-0631,2024-01-09,2024-02-13,,,Ridgeway Engineering,Southeast,General Contractor,Civic,Riley Chen,Bid Review,564.1,1026097.90,823489.48,,,Standard
+PRJ-0632,2024-05-22,2024-06-27,,,Summit Civic Group,Northeast,Developer,Transportation,Jordan Lee,Lost,222.9,482355.60,427315.44,,,Standard
+PRJ-0633,2024-02-23,2024-04-07,,,Northstar Builders,Mid-Atlantic,Developer,Transportation,Taylor Brooks,No Response,372.2,691547.60,626489.75,,,Standard
+PRJ-0634,2025-03-31,2025-05-11,,,Greenfield Build Co.,Northeast,General Contractor,Education,Riley Chen,Quote Submitted,299.8,704230.20,626114.05,,,Standard
+PRJ-0635,2026-07-10,2026-08-14,,,Bluehaven Infrastructure,Mid-Atlantic,Developer,Education,Riley Chen,Bid Review,115.1,235379.50,193440.37,,,Standard
+PRJ-0636,2024-01-04,2024-02-09,,,Atlas Urban Development,Midwest,Public Agency,Healthcare,Riley Chen,No Response,127.1,267164.20,214462.32,,,Standard
+PRJ-0637,2024-03-09,2024-04-10,,,Westmark Builders,Northeast,Specialty Contractor,Multifamily,Avery Morgan,No Response,181.2,368379.60,298833.10,,,Standard
+PRJ-0638,2025-07-20,2025-08-22,,,Ridgeway Engineering,Midwest,Specialty Contractor,Civic,Riley Chen,No Response,177.0,402321.00,345984.23,,,High
+PRJ-0639,2024-06-29,2024-08-04,2024-07-14,,Clearwater Public Works,Southeast,Developer,Multifamily,Casey Rivera,Fabrication,452.0,706476.00,597804.34,399.2,629709.24,Standard
+PRJ-0640,2026-06-15,2026-07-18,,,Ironwood Development,Southeast,Specialty Contractor,Education,Taylor Brooks,Lost,201.8,398353.20,311861.10,,,Standard
+PRJ-0641,2025-01-10,2025-02-14,,,Brightpath Construction,Southeast,General Contractor,Healthcare,Casey Rivera,Quote Submitted,43.2,86702.40,78030.18,,,High
+PRJ-0642,2024-09-25,2024-10-23,,,Ironwood Development,Mid-Atlantic,Developer,Multifamily,Taylor Brooks,Lost,405.1,630740.70,485913.50,,,Urgent
+PRJ-0643,2025-05-05,2025-06-15,,,Granite Peak Contractors,Mid-Atlantic,General Contractor,Civic,Taylor Brooks,Bid Review,259.2,602380.80,534474.00,,,Standard
+PRJ-0644,2025-10-12,2025-11-09,,,Evergreen Contracting,Midwest,Developer,Civic,Riley Chen,Lost,264.6,561481.20,473438.94,,,Standard
+PRJ-0645,2024-08-26,2024-10-02,,,Cedarline Construction,Northeast,General Contractor,Multifamily,Avery Morgan,Lost,204.1,418813.20,335938.82,,,High
+PRJ-0646,2024-08-31,2024-10-12,2024-09-10,2024-11-01,Keystone Works,Northeast,Public Agency,Civic,Avery Morgan,Ready for Delivery,271.2,622404.00,566059.54,270.1,637785.76,Standard
+PRJ-0647,2026-02-26,2026-03-18,,,Lakeshore Projects,Northeast,Developer,Healthcare,Avery Morgan,Lost,56.7,127291.50,94771.05,,,High
+PRJ-0648,2025-12-03,2026-01-07,,,Ironwood Development,Southeast,Specialty Contractor,Healthcare,Avery Morgan,Quote Submitted,173.8,402173.20,369784.13,,,High
+PRJ-0649,2025-05-31,2025-07-12,,,Lakeshore Projects,Northeast,Developer,Education,Jordan Lee,No Response,577.6,1097440.00,810725.94,,,Standard
+PRJ-0650,2026-04-06,2026-05-06,,,Northstar Builders,Mid-Atlantic,General Contractor,Education,Taylor Brooks,Estimating,415.9,790625.90,707626.62,,,High
+PRJ-0651,2026-05-14,2026-06-07,,,Westmark Builders,Southeast,Developer,Transportation,Taylor Brooks,Quote Submitted,555.8,933188.20,816560.65,,,High
+PRJ-0652,2024-03-23,2024-04-15,,,Ridgeway Engineering,Northeast,General Contractor,Commercial,Taylor Brooks,No Response,303.4,517600.40,396726.65,,,Standard
+PRJ-0653,2025-03-30,2025-05-14,,,Granite Peak Contractors,Southeast,General Contractor,Commercial,Avery Morgan,No Response,661.3,1228034.10,1028837.24,,,Standard
+PRJ-0654,2025-11-18,2026-01-02,,,Redwood Project Partners,Northeast,Specialty Contractor,Multifamily,Taylor Brooks,No Response,361.5,673474.50,494166.25,,,High
+PRJ-0655,2025-12-14,2026-01-18,,,Meridian Siteworks,Mid-Atlantic,Public Agency,Civic,Riley Chen,Lost,590.1,1170168.30,990566.76,,,Standard
+PRJ-0656,2025-05-06,2025-05-28,,,Lakeshore Projects,Midwest,General Contractor,Civic,Riley Chen,Quote Submitted,547.9,1233870.80,1132090.19,,,High
+PRJ-0657,2024-05-20,2024-06-12,,,Lakeshore Projects,Mid-Atlantic,Specialty Contractor,Education,Avery Morgan,Estimating,498.4,954436.00,727442.29,,,Standard
+PRJ-0658,2025-09-26,2025-11-07,2025-10-09,,Cedarline Construction,Southeast,Specialty Contractor,Healthcare,Jordan Lee,Fabrication,234.6,370198.80,310659.16,231.1,334339.82,Standard
+PRJ-0659,2025-05-26,2025-06-20,,,Keystone Works,Northeast,General Contractor,Education,Riley Chen,Bid Review,410.8,881166.00,748954.36,,,Standard
+PRJ-0660,2026-05-10,2026-06-11,,,Crownpoint Civil,Mid-Atlantic,Developer,Multifamily,Jordan Lee,Quote Submitted,263.2,515082.40,369522.60,,,Standard
+PRJ-0661,2025-02-11,2025-03-20,,,Crownpoint Civil,Midwest,Specialty Contractor,Transportation,Taylor Brooks,No Response,643.6,1159123.60,972543.93,,,Standard
+PRJ-0662,2026-09-07,2026-10-14,,,Crownpoint Civil,Midwest,Specialty Contractor,Healthcare,Casey Rivera,Quote Submitted,436.4,768064.00,607181.66,,,Urgent
+PRJ-0663,2025-02-02,2025-03-03,,,Keystone Works,Northeast,Developer,Healthcare,Riley Chen,Lost,121.7,223928.00,192168.29,,,High
+PRJ-0664,2026-01-18,2026-02-21,,,Redwood Project Partners,Midwest,Public Agency,Multifamily,Taylor Brooks,Lost,559.1,1209333.30,880575.84,,,Standard
+PRJ-0665,2026-02-20,2026-04-04,,,Granite Peak Contractors,Mid-Atlantic,Developer,Education,Riley Chen,Quote Submitted,56.2,94472.20,75002.61,,,High
+PRJ-0666,2026-01-20,2026-02-24,,,Stonebridge General,Northeast,Public Agency,Transportation,Jordan Lee,No Response,411.7,797051.20,698044.12,,,Standard
+PRJ-0667,2024-07-04,2024-07-25,,,Westmark Builders,Northeast,Specialty Contractor,Education,Jordan Lee,No Response,293.3,542311.70,423809.85,,,Urgent
+PRJ-0668,2025-12-29,2026-02-03,,,Beacon Municipal Group,Mid-Atlantic,General Contractor,Education,Riley Chen,Estimating,416.8,686886.40,542588.80,,,High
+PRJ-0669,2025-12-31,2026-01-22,,,Beacon Municipal Group,Midwest,General Contractor,Commercial,Riley Chen,Quote Submitted,76.5,153841.50,124749.85,,,Standard
+PRJ-0670,2026-01-27,2026-02-18,2026-02-03,,Oak & River Builders,Mid-Atlantic,Specialty Contractor,Healthcare,Taylor Brooks,Fabrication,74.7,126392.40,112515.43,75.5,116551.34,Standard
+PRJ-0671,2024-08-25,2024-09-16,,,Greenfield Build Co.,Midwest,General Contractor,Healthcare,Riley Chen,Lost,167.1,263182.50,202390.08,,,Standard
+PRJ-0672,2024-11-04,2024-12-16,,,Clearwater Public Works,Southeast,General Contractor,Civic,Taylor Brooks,Quote Submitted,67.0,118188.00,104784.69,,,High
+PRJ-0673,2026-07-28,2026-09-06,,,Atlas Urban Development,Southeast,General Contractor,Education,Casey Rivera,Bid Review,204.6,384852.60,300969.73,,,Standard
+PRJ-0674,2024-10-17,2024-11-08,,,Lakeshore Projects,Southeast,Developer,Education,Jordan Lee,Lost,316.2,556195.80,451550.15,,,High
+PRJ-0675,2024-12-14,2025-01-10,2024-12-24,,Keystone Works,Midwest,General Contractor,Healthcare,Taylor Brooks,Awarded,450.6,1057107.60,857353.59,420.9,934241.30,Standard
+PRJ-0676,2025-10-22,2025-11-28,,,Pioneer Structures,Mid-Atlantic,Developer,Civic,Taylor Brooks,No Response,330.4,773466.40,592546.51,,,Standard
+PRJ-0677,2024-03-01,2024-03-24,2024-03-12,,Oak & River Builders,Northeast,Developer,Healthcare,Taylor Brooks,Awarded,561.0,1303764.00,1088144.19,600.0,1112535.35,Standard
+PRJ-0678,2024-07-09,2024-08-23,2024-07-17,2024-09-11,Redwood Project Partners,Southeast,Public Agency,Healthcare,Riley Chen,Delivered,606.4,961144.00,816827.35,597.3,833251.30,Standard
+PRJ-0679,2024-10-16,2024-11-21,,,Lakeshore Projects,Midwest,General Contractor,Multifamily,Taylor Brooks,Lost,518.5,904264.00,654941.78,,,Standard
+PRJ-0680,2025-03-29,2025-04-29,,,Silverline Contractors,Midwest,Specialty Contractor,Civic,Riley Chen,Lost,204.4,401032.80,374898.76,,,Standard
+PRJ-0681,2025-12-05,2025-12-28,,,Silverline Contractors,Southeast,Specialty Contractor,Education,Casey Rivera,Lost,171.5,371297.50,302985.39,,,High
+PRJ-0682,2026-07-16,2026-08-08,2026-08-04,,Bluehaven Infrastructure,Midwest,Developer,Education,Avery Morgan,Fabrication,147.1,251688.10,210725.80,143.6,235351.42,High
+PRJ-0683,2026-01-25,2026-03-06,,,Northstar Builders,Mid-Atlantic,General Contractor,Civic,Casey Rivera,Lost,339.5,537768.00,431038.95,,,Standard
+PRJ-0684,2024-10-07,2024-11-05,,,Oak & River Builders,Northeast,Developer,Commercial,Casey Rivera,No Response,156.2,312243.80,254653.07,,,Standard
+PRJ-0685,2026-02-20,2026-03-26,,,Summit Civic Group,Northeast,Developer,Multifamily,Avery Morgan,Quote Submitted,147.6,240883.20,217184.00,,,Standard
+PRJ-0686,2025-02-17,2025-04-03,,,Ironwood Development,Northeast,Specialty Contractor,Commercial,Taylor Brooks,Quote Submitted,93.3,175777.20,131380.22,,,Urgent
+PRJ-0687,2024-11-25,2024-12-30,,,Stonebridge General,Mid-Atlantic,General Contractor,Healthcare,Taylor Brooks,Estimating,154.0,343882.00,281469.85,,,Standard
+PRJ-0688,2024-01-31,2024-03-04,,,Keystone Works,Southeast,Public Agency,Transportation,Taylor Brooks,No Response,81.8,189939.60,154903.68,,,High
+PRJ-0689,2024-10-24,2024-11-25,,,Evergreen Contracting,Midwest,Developer,Commercial,Riley Chen,Quote Submitted,189.9,309347.10,255209.71,,,Standard
+PRJ-0690,2025-02-13,2025-03-12,,,Atlas Urban Development,Southeast,Public Agency,Education,Casey Rivera,Estimating,137.1,276942.00,217504.56,,,Standard
+PRJ-0691,2026-03-04,2026-04-06,2026-03-16,2026-05-05,Oak & River Builders,Mid-Atlantic,Specialty Contractor,Commercial,Casey Rivera,Delivered,428.5,864284.50,752539.84,391.0,743408.22,Standard
+PRJ-0692,2024-04-08,2024-04-29,,,Bluehaven Infrastructure,Midwest,Specialty Contractor,Civic,Taylor Brooks,Lost,166.7,285723.80,248120.89,,,Standard
+PRJ-0693,2024-09-03,2024-10-14,,,Redwood Project Partners,Southeast,Specialty Contractor,Transportation,Avery Morgan,Quote Submitted,78.4,151076.80,129926.29,,,High
+PRJ-0694,2026-07-13,2026-08-13,,,Redwood Project Partners,Northeast,Specialty Contractor,Commercial,Taylor Brooks,Quote Submitted,294.0,650034.00,521697.21,,,Standard
+PRJ-0695,2026-03-31,2026-04-22,,,Ironwood Development,Midwest,General Contractor,Healthcare,Avery Morgan,Estimating,207.6,359563.20,258630.37,,,Standard
+PRJ-0696,2024-04-24,2024-05-28,,,Harborlight Construction,Midwest,General Contractor,Healthcare,Riley Chen,No Response,183.2,360904.00,294912.26,,,Standard
+PRJ-0697,2025-10-05,2025-11-04,,,Silverline Contractors,Mid-Atlantic,General Contractor,Multifamily,Avery Morgan,Lost,287.4,448918.80,354960.78,,,High
+PRJ-0698,2024-11-09,2024-12-17,,,Pioneer Structures,Northeast,Specialty Contractor,Transportation,Jordan Lee,Lost,514.7,831755.20,671428.95,,,Standard
+PRJ-0699,2025-12-13,2026-01-04,,,Bluehaven Infrastructure,Northeast,Public Agency,Civic,Avery Morgan,Lost,310.0,526070.00,417289.01,,,High
+PRJ-0700,2025-05-15,2025-06-28,2025-06-03,2025-09-12,Crownpoint Civil,Mid-Atlantic,General Contractor,Commercial,Riley Chen,Delivered,346.0,554984.00,450341.81,377.3,506061.24,Standard
+PRJ-0701,2024-09-09,2024-10-10,2024-09-26,,Stonebridge General,Northeast,Public Agency,Civic,Casey Rivera,Fabrication,240.7,564922.90,488368.30,248.8,507690.38,Standard
+PRJ-0702,2026-03-11,2026-04-07,,,Pioneer Structures,Midwest,Developer,Commercial,Taylor Brooks,No Response,91.6,185856.40,139258.98,,,Standard
+PRJ-0703,2024-04-17,2024-05-18,,,Evergreen Contracting,Northeast,General Contractor,Multifamily,Jordan Lee,No Response,180.8,281686.40,197697.01,,,Standard
+PRJ-0704,2026-07-08,2026-08-07,,,Westmark Builders,Midwest,Public Agency,Civic,Casey Rivera,Quote Submitted,177.8,403250.40,354442.76,,,Standard
+PRJ-0705,2025-06-14,2025-07-13,,,Lakeshore Projects,Mid-Atlantic,Public Agency,Transportation,Avery Morgan,Estimating,476.1,775566.90,709393.69,,,Standard
+PRJ-0706,2026-02-18,2026-03-25,,,Pioneer Structures,Southeast,Specialty Contractor,Healthcare,Casey Rivera,No Response,415.3,946053.40,746139.04,,,Standard
+PRJ-0707,2025-10-12,2025-11-14,2025-10-30,,Summit Civic Group,Southeast,Public Agency,Civic,Jordan Lee,Fabrication,356.5,603911.00,531819.61,369.8,596310.73,Standard
+PRJ-0708,2024-02-07,2024-03-03,,,Granite Peak Contractors,Northeast,Specialty Contractor,Multifamily,Riley Chen,Lost,216.4,347538.40,256625.62,,,Standard
+PRJ-0709,2024-03-20,2024-04-20,,,Summit Civic Group,Northeast,Public Agency,Education,Riley Chen,Lost,398.4,649790.40,506950.82,,,High
+PRJ-0710,2026-01-05,2026-02-18,,,Redwood Project Partners,Southeast,Developer,Transportation,Taylor Brooks,Estimating,458.4,822828.00,745363.78,,,High
+PRJ-0711,2024-04-22,2024-05-23,,,Greenfield Build Co.,Mid-Atlantic,Developer,Transportation,Riley Chen,Lost,545.2,897944.40,703775.61,,,High
+PRJ-0712,2026-03-24,2026-04-14,,,Oak & River Builders,Mid-Atlantic,Developer,Transportation,Taylor Brooks,Lost,526.6,884688.00,739292.43,,,Standard
+PRJ-0713,2026-02-28,2026-03-20,,,Clearwater Public Works,Southeast,Developer,Healthcare,Jordan Lee,Bid Review,358.7,675073.40,555112.19,,,Standard
+PRJ-0714,2026-09-28,2026-11-10,,,Crownpoint Civil,Mid-Atlantic,Developer,Commercial,Riley Chen,Estimating,251.4,427128.60,343446.83,,,Standard
+PRJ-0715,2026-05-22,2026-06-20,2026-06-10,2026-07-06,Redwood Project Partners,Northeast,Public Agency,Education,Jordan Lee,Ready for Delivery,339.9,753558.30,570735.30,365.7,588606.31,Standard
+PRJ-0716,2025-09-09,2025-09-29,,,Silverline Contractors,Southeast,General Contractor,Healthcare,Riley Chen,Lost,334.2,553435.20,448290.38,,,Standard
+PRJ-0717,2026-03-03,2026-04-06,,,Granite Peak Contractors,Midwest,Public Agency,Civic,Taylor Brooks,Lost,161.5,346740.50,306538.47,,,Standard
+PRJ-0718,2024-12-08,2025-01-08,,,Stonebridge General,Southeast,Developer,Commercial,Taylor Brooks,Quote Submitted,455.7,864918.60,719765.89,,,Standard
+PRJ-0719,2025-11-23,2025-12-29,,,Evergreen Contracting,Southeast,General Contractor,Commercial,Riley Chen,Quote Submitted,445.9,984547.20,744446.22,,,High
+PRJ-0720,2025-11-14,2025-12-15,2025-11-29,,Northstar Builders,Midwest,General Contractor,Transportation,Jordan Lee,Fabrication,53.7,94082.40,77974.44,53.4,79751.74,Standard
+PRJ-0721,2024-02-17,2024-03-23,2024-03-03,,Greenfield Build Co.,Mid-Atlantic,Developer,Multifamily,Avery Morgan,Fabrication,119.5,193590.00,139575.74,124.8,140378.75,High
+PRJ-0722,2025-12-15,2026-01-21,,,Crownpoint Civil,Mid-Atlantic,Specialty Contractor,Civic,Taylor Brooks,Lost,355.0,579005.00,524723.37,,,Standard
+PRJ-0723,2024-11-14,2024-12-17,,,Harborlight Construction,Midwest,General Contractor,Education,Riley Chen,Lost,557.0,955812.00,782819.58,,,Standard
+PRJ-0724,2025-08-19,2025-09-14,,,Granite Peak Contractors,Northeast,Public Agency,Civic,Jordan Lee,No Response,369.2,796364.40,678521.21,,,Standard
+PRJ-0725,2025-12-31,2026-02-08,,,Pioneer Structures,Midwest,Public Agency,Civic,Avery Morgan,No Response,178.7,398143.60,359056.41,,,Standard
+PRJ-0726,2025-11-11,2025-12-20,,,Keystone Works,Midwest,Specialty Contractor,Multifamily,Avery Morgan,Estimating,155.3,250654.20,188703.43,,,Standard
+PRJ-0727,2025-05-21,2025-06-24,,,Pioneer Structures,Northeast,Public Agency,Commercial,Jordan Lee,Lost,322.8,600408.00,450196.01,,,Standard
+PRJ-0728,2024-09-07,2024-10-02,2024-09-15,2024-11-26,Evergreen Contracting,Southeast,General Contractor,Civic,Riley Chen,Delivered,455.5,968393.00,865652.46,425.0,832732.65,Standard
+PRJ-0729,2024-12-30,2025-01-27,2025-01-23,,Redwood Project Partners,Mid-Atlantic,Public Agency,Healthcare,Casey Rivera,Fabrication,314.4,538252.80,451846.97,342.7,439086.44,Standard
+PRJ-0730,2026-02-11,2026-03-20,,,Pioneer Structures,Southeast,General Contractor,Healthcare,Casey Rivera,Lost,252.0,413028.00,351106.40,,,Standard
+PRJ-0731,2024-08-29,2024-10-11,,,Summit Civic Group,Southeast,General Contractor,Transportation,Jordan Lee,Bid Review,94.5,183613.50,159198.01,,,High
+PRJ-0732,2024-09-09,2024-09-30,,,Keystone Works,Midwest,Public Agency,Education,Jordan Lee,No Response,215.0,405060.00,356667.20,,,Standard
+PRJ-0733,2025-12-26,2026-01-20,,,Harborlight Construction,Midwest,Public Agency,Education,Taylor Brooks,Lost,346.0,797530.00,635628.76,,,Standard
+PRJ-0734,2024-09-12,2024-10-15,2024-10-04,2024-12-07,Greenfield Build Co.,Southeast,Developer,Civic,Casey Rivera,Delivered,567.6,1086954.00,923671.18,602.2,963872.19,Standard
+PRJ-0735,2024-10-04,2024-11-09,2024-10-15,2024-11-26,Evergreen Contracting,Northeast,Developer,Healthcare,Taylor Brooks,Delivered,207.0,391230.00,321353.32,197.3,315717.75,Standard
+PRJ-0736,2025-03-25,2025-04-30,2025-03-30,2025-06-21,Silverline Contractors,Midwest,General Contractor,Commercial,Riley Chen,Ready for Delivery,430.7,986303.00,724640.29,482.1,755497.10,High
+PRJ-0737,2025-03-14,2025-04-23,,,Ridgeway Engineering,Northeast,General Contractor,Healthcare,Avery Morgan,No Response,144.9,262848.60,242107.61,,,Standard
+PRJ-0738,2026-05-25,2026-07-03,,,Northstar Builders,Northeast,Public Agency,Transportation,Riley Chen,Estimating,115.7,255234.20,219459.41,,,Standard
+PRJ-0739,2024-09-30,2024-11-04,,,Clearwater Public Works,Mid-Atlantic,Developer,Education,Jordan Lee,Lost,299.4,507483.00,384225.53,,,Standard
+PRJ-0740,2025-03-19,2025-05-01,,,Summit Civic Group,Northeast,Specialty Contractor,Multifamily,Casey Rivera,Lost,449.1,1047750.30,785140.74,,,Urgent
+PRJ-0741,2024-10-24,2024-11-25,,,Silverline Contractors,Southeast,Specialty Contractor,Education,Riley Chen,Lost,452.8,1012913.60,838355.13,,,High
+PRJ-0742,2026-06-30,2026-08-05,,,Bluehaven Infrastructure,Midwest,Developer,Transportation,Taylor Brooks,No Response,332.6,527836.20,445823.02,,,Standard
+PRJ-0743,2025-09-23,2025-11-04,,,Stonebridge General,Northeast,General Contractor,Multifamily,Avery Morgan,Quote Submitted,207.8,373001.00,289851.86,,,Standard
+PRJ-0744,2026-01-11,2026-02-08,2026-01-22,,Crownpoint Civil,Mid-Atlantic,Developer,Education,Taylor Brooks,Awarded,619.9,1376797.90,1107503.84,675.2,1065855.63,Standard
+PRJ-0745,2025-08-16,2025-09-30,,,Meridian Siteworks,Midwest,Developer,Healthcare,Riley Chen,Bid Review,561.2,948428.00,804035.20,,,High
+PRJ-0746,2024-09-11,2024-10-10,,,Meridian Siteworks,Mid-Atlantic,Developer,Transportation,Taylor Brooks,Lost,291.4,620682.00,511309.96,,,High
+PRJ-0747,2025-06-16,2025-07-10,,,Meridian Siteworks,Southeast,Specialty Contractor,Civic,Taylor Brooks,No Response,688.6,1320046.20,1169932.69,,,High
+PRJ-0748,2024-10-03,2024-11-12,,,Oak & River Builders,Northeast,General Contractor,Multifamily,Casey Rivera,Lost,106.9,186861.20,152003.17,,,Urgent
+PRJ-0749,2025-10-06,2025-11-16,,,Clearwater Public Works,Northeast,Public Agency,Healthcare,Taylor Brooks,Bid Review,262.5,408450.00,344989.01,,,Standard
+PRJ-0750,2026-02-24,2026-03-21,,,Beacon Municipal Group,Midwest,Specialty Contractor,Commercial,Jordan Lee,Lost,490.2,922556.40,718311.77,,,Standard
+PRJ-0751,2025-10-24,2025-12-01,,,Oak & River Builders,Southeast,Developer,Transportation,Taylor Brooks,No Response,211.2,492518.40,414698.06,,,Standard
+PRJ-0752,2025-09-21,2025-10-12,2025-09-28,,Ridgeway Engineering,Southeast,Specialty Contractor,Transportation,Riley Chen,Awarded,206.8,379478.00,309425.86,228.2,336256.93,Standard
+PRJ-0753,2025-06-23,2025-07-14,2025-07-03,,Redwood Project Partners,Northeast,Specialty Contractor,Multifamily,Riley Chen,Awarded,151.2,263239.20,199766.46,154.3,192733.28,Standard
+PRJ-0754,2025-08-20,2025-09-29,,,Ironwood Development,Northeast,Developer,Transportation,Avery Morgan,No Response,132.2,223682.40,203661.37,,,Standard
+PRJ-0755,2024-08-30,2024-09-22,,,Pioneer Structures,Southeast,Public Agency,Healthcare,Casey Rivera,Lost,346.1,673510.60,572736.02,,,Standard
+PRJ-0756,2026-08-25,2026-09-24,,,Oak & River Builders,Midwest,Public Agency,Commercial,Avery Morgan,Quote Submitted,330.1,743385.20,554737.78,,,Standard
+PRJ-0757,2026-07-27,2026-08-25,,,Atlas Urban Development,Southeast,Public Agency,Healthcare,Riley Chen,Estimating,614.8,1415884.40,1327719.86,,,High
+PRJ-0758,2024-03-22,2024-04-20,2024-03-29,,Cedarline Construction,Southeast,Developer,Commercial,Casey Rivera,Awarded,234.9,525706.20,389337.29,207.3,404106.66,High
+PRJ-0759,2025-02-26,2025-04-09,,,Clearwater Public Works,Mid-Atlantic,Developer,Healthcare,Jordan Lee,Quote Submitted,241.9,452353.00,344073.04,,,Standard
+PRJ-0760,2025-08-06,2025-09-07,,,Crownpoint Civil,Northeast,Specialty Contractor,Multifamily,Riley Chen,Lost,147.5,346625.00,264829.58,,,Standard
+PRJ-0761,2025-03-21,2025-04-20,,,Westmark Builders,Northeast,Public Agency,Healthcare,Jordan Lee,Lost,260.7,526614.00,418179.55,,,High
+PRJ-0762,2024-05-14,2024-06-24,,,Lakeshore Projects,Southeast,Specialty Contractor,Healthcare,Jordan Lee,Quote Submitted,184.7,341140.90,297632.36,,,High
+PRJ-0763,2024-05-24,2024-06-15,,,Stonebridge General,Southeast,Public Agency,Commercial,Jordan Lee,Lost,333.3,668266.50,510384.64,,,Standard
+PRJ-0764,2025-10-03,2025-11-07,,,Bluehaven Infrastructure,Southeast,Developer,Civic,Taylor Brooks,Estimating,57.0,105621.00,93884.30,,,Urgent
+PRJ-0765,2025-05-05,2025-06-12,2025-05-20,,Greenfield Build Co.,Northeast,Public Agency,Civic,Riley Chen,Awarded,599.3,1393971.80,1244150.18,667.1,1208868.14,High
+PRJ-0766,2024-05-02,2024-06-11,,,Stonebridge General,Northeast,Specialty Contractor,Commercial,Jordan Lee,No Response,165.0,327525.00,271191.64,,,Standard
+PRJ-0767,2026-07-21,2026-08-13,,,Ridgeway Engineering,Mid-Atlantic,Public Agency,Healthcare,Jordan Lee,No Response,437.3,936259.30,842345.21,,,Standard
+PRJ-0768,2026-03-18,2026-04-07,,,Oak & River Builders,Northeast,Public Agency,Civic,Avery Morgan,Lost,157.8,315126.60,264009.90,,,High
+PRJ-0769,2025-09-17,2025-10-13,,,Crownpoint Civil,Mid-Atlantic,Specialty Contractor,Education,Jordan Lee,Lost,523.8,1013029.20,827441.19,,,Standard
+PRJ-0770,2025-12-14,2026-01-13,,,Silverline Contractors,Southeast,General Contractor,Healthcare,Jordan Lee,No Response,161.1,285952.50,233414.09,,,Standard
+PRJ-0771,2024-12-17,2025-01-09,2024-12-25,,Silverline Contractors,Southeast,Specialty Contractor,Commercial,Riley Chen,Fabrication,518.9,819343.10,652304.60,534.6,716841.90,Standard
+PRJ-0772,2024-08-21,2024-09-21,2024-09-10,,Crownpoint Civil,Mid-Atlantic,Public Agency,Education,Riley Chen,Fabrication,270.7,625858.40,508933.56,274.9,538890.63,Standard
+PRJ-0773,2024-06-22,2024-07-23,,,Brightpath Construction,Midwest,Developer,Education,Taylor Brooks,Bid Review,442.4,966644.00,759417.21,,,Standard
+PRJ-0774,2026-06-22,2026-07-17,,,Beacon Municipal Group,Mid-Atlantic,Specialty Contractor,Civic,Casey Rivera,Lost,276.8,508204.80,477712.51,,,Standard
+PRJ-0775,2025-09-21,2025-11-05,,,Redwood Project Partners,Southeast,Specialty Contractor,Commercial,Taylor Brooks,Quote Submitted,169.4,276799.60,218656.12,,,Standard
+PRJ-0776,2025-03-13,2025-04-23,,,Meridian Siteworks,Northeast,Specialty Contractor,Multifamily,Jordan Lee,No Response,64.5,100426.50,76887.55,,,Standard
+PRJ-0777,2025-12-06,2026-01-02,,,Summit Civic Group,Southeast,Developer,Education,Taylor Brooks,Bid Review,428.1,797122.20,614334.82,,,Standard
+PRJ-0778,2024-04-29,2024-06-07,,,Northstar Builders,Northeast,General Contractor,Multifamily,Jordan Lee,Lost,117.6,251311.20,206425.42,,,High
+PRJ-0779,2024-04-15,2024-05-06,,,Redwood Project Partners,Mid-Atlantic,General Contractor,Multifamily,Casey Rivera,No Response,292.8,459696.00,354152.66,,,Standard
+PRJ-0780,2026-07-28,2026-09-05,,,Stonebridge General,Southeast,General Contractor,Education,Casey Rivera,Estimating,385.1,757491.70,626280.52,,,Standard
+PRJ-0781,2024-09-23,2024-10-26,,,Northstar Builders,Midwest,General Contractor,Multifamily,Avery Morgan,Estimating,184.6,368277.00,269912.41,,,Standard
+PRJ-0782,2025-10-26,2025-11-24,2025-11-09,2025-12-16,Oak & River Builders,Mid-Atlantic,General Contractor,Commercial,Jordan Lee,Ready for Delivery,521.1,1163616.30,840340.26,562.9,842745.39,Standard
+PRJ-0783,2025-08-05,2025-08-29,,,Beacon Municipal Group,Southeast,Specialty Contractor,Education,Casey Rivera,Lost,497.1,1067273.70,842687.88,,,Standard
+PRJ-0784,2024-11-16,2024-12-28,,,Ironwood Development,Midwest,Public Agency,Transportation,Taylor Brooks,Quote Submitted,183.6,338558.40,280652.84,,,High
+PRJ-0785,2025-10-10,2025-11-08,,,Greenfield Build Co.,Midwest,General Contractor,Civic,Casey Rivera,Lost,270.7,477785.50,415457.24,,,Standard
+PRJ-0786,2026-05-12,2026-06-07,,,Ridgeway Engineering,Midwest,General Contractor,Commercial,Riley Chen,Quote Submitted,487.8,794626.20,646941.97,,,High
+PRJ-0787,2025-02-07,2025-03-11,,,Oak & River Builders,Southeast,Public Agency,Healthcare,Riley Chen,Quote Submitted,228.8,410238.40,343186.81,,,Standard
+PRJ-0788,2026-05-26,2026-06-24,,,Atlas Urban Development,Northeast,Specialty Contractor,Healthcare,Casey Rivera,Estimating,436.7,687365.80,521176.81,,,Standard
+PRJ-0789,2024-07-23,2024-08-25,,,Redwood Project Partners,Midwest,Developer,Healthcare,Casey Rivera,No Response,602.4,1281907.20,1185856.02,,,High
+PRJ-0790,2025-08-02,2025-09-14,2025-08-14,2025-09-22,Harborlight Construction,Southeast,Specialty Contractor,Transportation,Taylor Brooks,Delivered,382.2,831667.20,728201.16,395.8,736114.06,High
+PRJ-0791,2026-09-22,2026-11-05,,,Summit Civic Group,Mid-Atlantic,Specialty Contractor,Multifamily,Riley Chen,Lost,219.7,382058.30,298059.13,,,High
+PRJ-0792,2024-11-18,2024-12-24,,,Evergreen Contracting,Mid-Atlantic,Public Agency,Multifamily,Taylor Brooks,Quote Submitted,397.7,883291.70,661710.76,,,Standard
+PRJ-0793,2025-06-12,2025-07-25,,,Ridgeway Engineering,Southeast,Developer,Education,Casey Rivera,Lost,409.5,773136.00,669654.13,,,High
+PRJ-0794,2026-05-27,2026-06-18,,,Atlas Urban Development,Midwest,Public Agency,Transportation,Taylor Brooks,Quote Submitted,395.0,821205.00,634949.89,,,Standard
+PRJ-0795,2026-05-26,2026-07-06,,,Redwood Project Partners,Mid-Atlantic,Public Agency,Education,Avery Morgan,Estimating,716.8,1204940.80,972531.93,,,Standard
+PRJ-0796,2024-01-23,2024-02-12,2024-02-01,,Stonebridge General,Midwest,Developer,Civic,Casey Rivera,Awarded,452.3,954805.30,863443.74,400.7,887386.04,Standard
+PRJ-0797,2025-03-26,2025-04-26,2025-04-20,2025-07-30,Harborlight Construction,Southeast,Specialty Contractor,Civic,Casey Rivera,Delivered,446.8,751070.80,612222.39,465.2,613588.06,Standard
+PRJ-0798,2025-01-23,2025-02-15,2025-02-05,2025-04-03,Northstar Builders,Northeast,Public Agency,Healthcare,Avery Morgan,Delivered,284.3,598451.50,491809.06,273.8,499554.33,Standard
+PRJ-0799,2025-08-08,2025-09-05,,,Keystone Works,Southeast,General Contractor,Transportation,Jordan Lee,Quote Submitted,111.9,221338.20,199485.34,,,High
+PRJ-0800,2024-01-09,2024-02-15,,,Ridgeway Engineering,Northeast,Developer,Transportation,Jordan Lee,Bid Review,341.5,597625.00,492459.29,,,Urgent
