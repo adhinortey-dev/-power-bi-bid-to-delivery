@@ -4,6 +4,24 @@ An end-to-end analytics case study for a fictional rebar fabrication and supply 
 
 The finished Power BI report is included as `Rebar_Workflow.pbix`. Open it with Power BI Desktop to explore the report and model. The CSVs, DAX measures, Power Query starter, and documentation are included so the analysis is transparent and reproducible.
 
+## Report screenshots
+
+### Executive overview
+
+![Power BI executive overview with all filters cleared](screenshots/executive-overview.png)
+
+### Filtered dashboard view
+
+This view demonstrates cross-filtering with Region set to Midwest and ProjectType set to Commercial.
+
+![Power BI dashboard filtered to Midwest and Commercial projects](screenshots/filtered-midwest-commercial.png)
+
+### Model-building view
+
+The report's date dimension was created as a DAX calculated table.
+
+![Power BI DAX editor showing the DimAwardDate calendar table](screenshots/date-table-model.png)
+
 ## Data and confidentiality
 
 Every record, company, person, project ID, amount, and date in `data/` is generated for this portfolio project. No employer files, names, screenshots, or business records were used. The data generator is deterministic: running `python generate_data.py` recreates the same dataset.
@@ -15,6 +33,10 @@ Every record, company, person, project ID, amount, and date in `data/` is genera
 - How does realized gross margin compare across awarded projects?
 - What share of delivered shipments arrived on or before their planned date?
 - How does quoted tonnage move through award, fabrication, and delivery?
+
+## Business recommendations
+
+In this fictional snapshot, 68.6% of completed shipment lines are on time. A manager should investigate where late deliveries cluster before choosing a corrective action: compare on-time performance and late tons by region, project type, planned ship month, and project, then review planned-versus-actual dates. Follow up on the largest or repeated delays by checking production capacity, material readiness, schedule buffers, carrier availability, and job-site constraints. These are investigation paths, not proven causes; the data is synthetic and does not establish causation.
 
 ## Included files
 
@@ -32,7 +54,7 @@ Every record, company, person, project ID, amount, and date in `data/` is genera
 
 ## Build in Power BI Desktop
 
-1. Open `Rebar_Workflow.pbix` in Power BI Desktop. The remaining steps are optional if you want to rebuild or extend the model from the included source files.
+The included `Rebar_Workflow.pbix` currently contains the executive overview page. Open it in Power BI Desktop to explore the report. The remaining steps are optional if you want to rebuild or extend the model from the included source files.
 2. To rebuild from source, use **Get data → Blank query → Advanced Editor** and follow `power_query/LoadData.m`, setting the data folder to this package's `data` folder.
 3. In Model view, create the relationships described in `MODEL_AND_REPORT_GUIDE.md`. Keep the project and shipment fact tables separate so project quote value is never multiplied by the number of shipment rows.
 4. Add the measures from `dax/Measures.dax` and use the guide to extend the report. Validate any new findings against the source data.

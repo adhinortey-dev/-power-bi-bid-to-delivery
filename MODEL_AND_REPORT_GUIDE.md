@@ -43,17 +43,18 @@ ADDCOLUMNS (
 
 Sort `Month` by `Month Number`; sort `Year Month` by `Year Month Sort`. Mark `[Date]` as the date column for each calendar table.
 
-## Report page 1 — Executive overview
+## Report page 1 — Executive overview (included in the current PBIX)
 
 Purpose: summarize bid health and operating results at a glance.
 
-- KPI cards: Open Pipeline Value, Submitted Quotes, Win Rate, Awarded Revenue, Gross Margin %, On-time Shipment %.
-- Monthly line chart for Quoted Value by quote month, and a separate monthly chart for Awarded Revenue by award month. Label each date basis clearly.
-- Funnel or stacked bar: opportunities by stage.
-- Clustered bars: win rate by region and project type.
-- Slicers: quote year, region, project type, estimator.
+- Multi-measure KPI card: Open Pipeline Value, Win Rate, Awarded Revenue, Gross Margin $, and On-time Shipment %.
+- Horizontal bar charts: Project Count by Stage and Win Rate by Region.
+- Monthly line charts: Awarded Revenue by award month and Quoted Value by quote month.
+- Slicers: Region and ProjectType; title and subtitle text boxes.
 
-## Report page 2 — Bid performance
+The current PBIX has one report page with the visuals listed above. The additional page designs below are suggested future work and are not yet included in the PBIX. The current quoted-value line chart should use `Year Month` as its displayed axis and sort it chronologically by `Year Month Sort`; do not display the numeric sort key as a category.
+
+## Future page 2 — Bid performance
 
 - Open pipeline by stage, region, estimator, and customer segment.
 - Submitted quote count and value, won / lost / no-response split.
@@ -61,7 +62,7 @@ Purpose: summarize bid health and operating results at a glance.
 - Average days to award for awarded projects.
 - Detail table with ProjectID, customer, quote date, stage, quoted tons, amount, and estimator.
 
-## Report page 3 — Delivery and margin
+## Future page 3 — Delivery and margin
 
 - On-time shipment percentage and late shipment tonnage.
 - Planned vs. actual shipment tons by month.
